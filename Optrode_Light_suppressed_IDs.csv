@@ -1,0 +1,7 @@
+PSTH_dataset,Unit_ID,Sex,GeneticID,PeakToTrough_ms
+GADnottransduced_lightat1.0to1.025_psths,18,F,GAD_nottransduced,0.66
+GADnottransduced_lightat1.0to1.025_psths,19,F,GAD_nottransduced,0.24
+GADnottransduced_lightat1.0to1.025_psths,20,F,GAD_nottransduced,0.48
+GADnottransduced_lightat1.0to1.025_psths,21,F,GAD_nottransduced,0.43
+GADnottransduced_lightat1.0to1.025_psths,22,F,GAD_nottransduced,0.726
+GADnottransduced_lightat1.0to1.025_psths,23,F,GAD_nottransduced,0.505

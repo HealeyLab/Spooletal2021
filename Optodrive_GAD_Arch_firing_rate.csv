@@ -1,0 +1,1761 @@
+Unit_ID,Treatment,PeakToTrough_ms,Stimulus,Trial,Period,FR_Hz
+80719_site1_cluster178,laserOff,0.133333333,2LG R740,1,Baseline,24
+80719_site1_cluster178,laserOff,0.133333333,2LG R740,1,Stimulus,8
+80719_site1_cluster178,laserOff,0.133333333,2LG R740,2,Baseline,6
+80719_site1_cluster178,laserOff,0.133333333,2LG R740,2,Stimulus,22
+80719_site1_cluster178,laserOff,0.133333333,2LG R740,3,Baseline,2
+80719_site1_cluster178,laserOff,0.133333333,2LG R740,3,Stimulus,6
+80719_site1_cluster178,laserOff,0.133333333,2LG R740,4,Baseline,10
+80719_site1_cluster178,laserOff,0.133333333,2LG R740,4,Stimulus,18
+80719_site1_cluster178,laserOff,0.133333333,2LG R740,5,Baseline,4
+80719_site1_cluster178,laserOff,0.133333333,2LG R740,5,Stimulus,20
+80719_site1_cluster178,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,6,Baseline,12
+80719_site1_cluster178,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,6,Stimulus,16
+80719_site1_cluster178,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,7,Baseline,2
+80719_site1_cluster178,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,7,Stimulus,12
+80719_site1_cluster178,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,8,Baseline,6
+80719_site1_cluster178,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,8,Stimulus,8
+80719_site1_cluster178,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,9,Baseline,0
+80719_site1_cluster178,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,9,Stimulus,16
+80719_site1_cluster178,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,10,Baseline,12
+80719_site1_cluster178,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,10,Stimulus,10
+80719_site1_cluster178,laserOff,0.133333333,DB32,11,Baseline,6
+80719_site1_cluster178,laserOff,0.133333333,DB32,11,Stimulus,2
+80719_site1_cluster178,laserOff,0.133333333,DB32,12,Baseline,6
+80719_site1_cluster178,laserOff,0.133333333,DB32,12,Stimulus,8
+80719_site1_cluster178,laserOff,0.133333333,DB32,13,Baseline,4
+80719_site1_cluster178,laserOff,0.133333333,DB32,13,Stimulus,12
+80719_site1_cluster178,laserOff,0.133333333,DB32,14,Baseline,4
+80719_site1_cluster178,laserOff,0.133333333,DB32,14,Stimulus,12
+80719_site1_cluster178,laserOff,0.133333333,DB32,15,Baseline,12
+80719_site1_cluster178,laserOff,0.133333333,DB32,15,Stimulus,6
+80719_site1_cluster178,laserOff,0.133333333,LG69,16,Baseline,10
+80719_site1_cluster178,laserOff,0.133333333,LG69,16,Stimulus,18
+80719_site1_cluster178,laserOff,0.133333333,LG69,17,Baseline,2
+80719_site1_cluster178,laserOff,0.133333333,LG69,17,Stimulus,6
+80719_site1_cluster178,laserOff,0.133333333,LG69,18,Baseline,30
+80719_site1_cluster178,laserOff,0.133333333,LG69,18,Stimulus,14
+80719_site1_cluster178,laserOff,0.133333333,LG69,19,Baseline,2
+80719_site1_cluster178,laserOff,0.133333333,LG69,19,Stimulus,20
+80719_site1_cluster178,laserOff,0.133333333,LG69,20,Baseline,2
+80719_site1_cluster178,laserOff,0.133333333,LG69,20,Stimulus,24
+80719_site1_cluster192,laserOff,0.133333333,2LG R740,1,Baseline,54
+80719_site1_cluster192,laserOff,0.133333333,2LG R740,1,Stimulus,64
+80719_site1_cluster192,laserOff,0.133333333,2LG R740,2,Baseline,54
+80719_site1_cluster192,laserOff,0.133333333,2LG R740,2,Stimulus,72
+80719_site1_cluster192,laserOff,0.133333333,2LG R740,3,Baseline,48
+80719_site1_cluster192,laserOff,0.133333333,2LG R740,3,Stimulus,58
+80719_site1_cluster192,laserOff,0.133333333,2LG R740,4,Baseline,52
+80719_site1_cluster192,laserOff,0.133333333,2LG R740,4,Stimulus,86
+80719_site1_cluster192,laserOff,0.133333333,2LG R740,5,Baseline,52
+80719_site1_cluster192,laserOff,0.133333333,2LG R740,5,Stimulus,86
+80719_site1_cluster192,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,6,Baseline,66
+80719_site1_cluster192,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,6,Stimulus,58
+80719_site1_cluster192,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,7,Baseline,62
+80719_site1_cluster192,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,7,Stimulus,72
+80719_site1_cluster192,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,8,Baseline,36
+80719_site1_cluster192,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,8,Stimulus,68
+80719_site1_cluster192,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,9,Baseline,30
+80719_site1_cluster192,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,9,Stimulus,68
+80719_site1_cluster192,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,10,Baseline,68
+80719_site1_cluster192,laserOff,0.133333333,37_December_05_2007_06_14_04_filtered,10,Stimulus,74
+80719_site1_cluster192,laserOff,0.133333333,DB32,11,Baseline,32
+80719_site1_cluster192,laserOff,0.133333333,DB32,11,Stimulus,62
+80719_site1_cluster192,laserOff,0.133333333,DB32,12,Baseline,62
+80719_site1_cluster192,laserOff,0.133333333,DB32,12,Stimulus,62
+80719_site1_cluster192,laserOff,0.133333333,DB32,13,Baseline,54
+80719_site1_cluster192,laserOff,0.133333333,DB32,13,Stimulus,92
+80719_site1_cluster192,laserOff,0.133333333,DB32,14,Baseline,66
+80719_site1_cluster192,laserOff,0.133333333,DB32,14,Stimulus,66
+80719_site1_cluster192,laserOff,0.133333333,DB32,15,Baseline,56
+80719_site1_cluster192,laserOff,0.133333333,DB32,15,Stimulus,80
+80719_site1_cluster192,laserOff,0.133333333,LG69,16,Baseline,44
+80719_site1_cluster192,laserOff,0.133333333,LG69,16,Stimulus,62
+80719_site1_cluster192,laserOff,0.133333333,LG69,17,Baseline,44
+80719_site1_cluster192,laserOff,0.133333333,LG69,17,Stimulus,56
+80719_site1_cluster192,laserOff,0.133333333,LG69,18,Baseline,12
+80719_site1_cluster192,laserOff,0.133333333,LG69,18,Stimulus,38
+80719_site1_cluster192,laserOff,0.133333333,LG69,19,Baseline,54
+80719_site1_cluster192,laserOff,0.133333333,LG69,19,Stimulus,70
+80719_site1_cluster192,laserOff,0.133333333,LG69,20,Baseline,50
+80719_site1_cluster192,laserOff,0.133333333,LG69,20,Stimulus,72
+80719_site1_cluster282,laserOff,0.266666667,2LG R740,1,Baseline,2
+80719_site1_cluster282,laserOff,0.266666667,2LG R740,1,Stimulus,16
+80719_site1_cluster282,laserOff,0.266666667,2LG R740,2,Baseline,4
+80719_site1_cluster282,laserOff,0.266666667,2LG R740,2,Stimulus,18
+80719_site1_cluster282,laserOff,0.266666667,2LG R740,3,Baseline,14
+80719_site1_cluster282,laserOff,0.266666667,2LG R740,3,Stimulus,16
+80719_site1_cluster282,laserOff,0.266666667,2LG R740,4,Baseline,4
+80719_site1_cluster282,laserOff,0.266666667,2LG R740,4,Stimulus,8
+80719_site1_cluster282,laserOff,0.266666667,2LG R740,5,Baseline,6
+80719_site1_cluster282,laserOff,0.266666667,2LG R740,5,Stimulus,22
+80719_site1_cluster282,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,6,Baseline,6
+80719_site1_cluster282,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,6,Stimulus,2
+80719_site1_cluster282,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,7,Baseline,4
+80719_site1_cluster282,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,7,Stimulus,10
+80719_site1_cluster282,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,8,Baseline,6
+80719_site1_cluster282,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,8,Stimulus,10
+80719_site1_cluster282,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,9,Baseline,4
+80719_site1_cluster282,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,9,Stimulus,10
+80719_site1_cluster282,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,10,Baseline,4
+80719_site1_cluster282,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,10,Stimulus,8
+80719_site1_cluster282,laserOff,0.266666667,DB32,11,Baseline,6
+80719_site1_cluster282,laserOff,0.266666667,DB32,11,Stimulus,20
+80719_site1_cluster282,laserOff,0.266666667,DB32,12,Baseline,12
+80719_site1_cluster282,laserOff,0.266666667,DB32,12,Stimulus,28
+80719_site1_cluster282,laserOff,0.266666667,DB32,13,Baseline,6
+80719_site1_cluster282,laserOff,0.266666667,DB32,13,Stimulus,8
+80719_site1_cluster282,laserOff,0.266666667,DB32,14,Baseline,2
+80719_site1_cluster282,laserOff,0.266666667,DB32,14,Stimulus,20
+80719_site1_cluster282,laserOff,0.266666667,DB32,15,Baseline,0
+80719_site1_cluster282,laserOff,0.266666667,DB32,15,Stimulus,14
+80719_site1_cluster282,laserOff,0.266666667,LG69,16,Baseline,12
+80719_site1_cluster282,laserOff,0.266666667,LG69,16,Stimulus,26
+80719_site1_cluster282,laserOff,0.266666667,LG69,17,Baseline,2
+80719_site1_cluster282,laserOff,0.266666667,LG69,17,Stimulus,14
+80719_site1_cluster282,laserOff,0.266666667,LG69,18,Baseline,62
+80719_site1_cluster282,laserOff,0.266666667,LG69,18,Stimulus,14
+80719_site1_cluster282,laserOff,0.266666667,LG69,19,Baseline,2
+80719_site1_cluster282,laserOff,0.266666667,LG69,19,Stimulus,24
+80719_site1_cluster282,laserOff,0.266666667,LG69,20,Baseline,2
+80719_site1_cluster282,laserOff,0.266666667,LG69,20,Stimulus,18
+80719_site1_cluster284,laserOff,0.6,2LG R740,1,Baseline,2
+80719_site1_cluster284,laserOff,0.6,2LG R740,1,Stimulus,10
+80719_site1_cluster284,laserOff,0.6,2LG R740,2,Baseline,4
+80719_site1_cluster284,laserOff,0.6,2LG R740,2,Stimulus,16
+80719_site1_cluster284,laserOff,0.6,2LG R740,3,Baseline,4
+80719_site1_cluster284,laserOff,0.6,2LG R740,3,Stimulus,8
+80719_site1_cluster284,laserOff,0.6,2LG R740,4,Baseline,6
+80719_site1_cluster284,laserOff,0.6,2LG R740,4,Stimulus,8
+80719_site1_cluster284,laserOff,0.6,2LG R740,5,Baseline,6
+80719_site1_cluster284,laserOff,0.6,2LG R740,5,Stimulus,8
+80719_site1_cluster284,laserOff,0.6,37_December_05_2007_06_14_04_filtered,6,Baseline,6
+80719_site1_cluster284,laserOff,0.6,37_December_05_2007_06_14_04_filtered,6,Stimulus,2
+80719_site1_cluster284,laserOff,0.6,37_December_05_2007_06_14_04_filtered,7,Baseline,10
+80719_site1_cluster284,laserOff,0.6,37_December_05_2007_06_14_04_filtered,7,Stimulus,8
+80719_site1_cluster284,laserOff,0.6,37_December_05_2007_06_14_04_filtered,8,Baseline,10
+80719_site1_cluster284,laserOff,0.6,37_December_05_2007_06_14_04_filtered,8,Stimulus,12
+80719_site1_cluster284,laserOff,0.6,37_December_05_2007_06_14_04_filtered,9,Baseline,6
+80719_site1_cluster284,laserOff,0.6,37_December_05_2007_06_14_04_filtered,9,Stimulus,0
+80719_site1_cluster284,laserOff,0.6,37_December_05_2007_06_14_04_filtered,10,Baseline,8
+80719_site1_cluster284,laserOff,0.6,37_December_05_2007_06_14_04_filtered,10,Stimulus,8
+80719_site1_cluster284,laserOff,0.6,DB32,11,Baseline,2
+80719_site1_cluster284,laserOff,0.6,DB32,11,Stimulus,0
+80719_site1_cluster284,laserOff,0.6,DB32,12,Baseline,10
+80719_site1_cluster284,laserOff,0.6,DB32,12,Stimulus,8
+80719_site1_cluster284,laserOff,0.6,DB32,13,Baseline,6
+80719_site1_cluster284,laserOff,0.6,DB32,13,Stimulus,8
+80719_site1_cluster284,laserOff,0.6,DB32,14,Baseline,8
+80719_site1_cluster284,laserOff,0.6,DB32,14,Stimulus,12
+80719_site1_cluster284,laserOff,0.6,DB32,15,Baseline,10
+80719_site1_cluster284,laserOff,0.6,DB32,15,Stimulus,12
+80719_site1_cluster284,laserOff,0.6,LG69,16,Baseline,8
+80719_site1_cluster284,laserOff,0.6,LG69,16,Stimulus,4
+80719_site1_cluster284,laserOff,0.6,LG69,17,Baseline,4
+80719_site1_cluster284,laserOff,0.6,LG69,17,Stimulus,6
+80719_site1_cluster284,laserOff,0.6,LG69,18,Baseline,0
+80719_site1_cluster284,laserOff,0.6,LG69,18,Stimulus,0
+80719_site1_cluster284,laserOff,0.6,LG69,19,Baseline,12
+80719_site1_cluster284,laserOff,0.6,LG69,19,Stimulus,4
+80719_site1_cluster284,laserOff,0.6,LG69,20,Baseline,2
+80719_site1_cluster284,laserOff,0.6,LG69,20,Stimulus,6
+80719_site1_cluster285,laserOff,0.266666667,2LG R740,1,Baseline,10
+80719_site1_cluster285,laserOff,0.266666667,2LG R740,1,Stimulus,42
+80719_site1_cluster285,laserOff,0.266666667,2LG R740,2,Baseline,14
+80719_site1_cluster285,laserOff,0.266666667,2LG R740,2,Stimulus,28
+80719_site1_cluster285,laserOff,0.266666667,2LG R740,3,Baseline,18
+80719_site1_cluster285,laserOff,0.266666667,2LG R740,3,Stimulus,26
+80719_site1_cluster285,laserOff,0.266666667,2LG R740,4,Baseline,8
+80719_site1_cluster285,laserOff,0.266666667,2LG R740,4,Stimulus,38
+80719_site1_cluster285,laserOff,0.266666667,2LG R740,5,Baseline,10
+80719_site1_cluster285,laserOff,0.266666667,2LG R740,5,Stimulus,48
+80719_site1_cluster285,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,6,Baseline,28
+80719_site1_cluster285,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,6,Stimulus,36
+80719_site1_cluster285,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,7,Baseline,10
+80719_site1_cluster285,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,7,Stimulus,32
+80719_site1_cluster285,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,8,Baseline,8
+80719_site1_cluster285,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,8,Stimulus,8
+80719_site1_cluster285,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,9,Baseline,8
+80719_site1_cluster285,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,9,Stimulus,42
+80719_site1_cluster285,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,10,Baseline,14
+80719_site1_cluster285,laserOff,0.266666667,37_December_05_2007_06_14_04_filtered,10,Stimulus,24
+80719_site1_cluster285,laserOff,0.266666667,DB32,11,Baseline,12
+80719_site1_cluster285,laserOff,0.266666667,DB32,11,Stimulus,46
+80719_site1_cluster285,laserOff,0.266666667,DB32,12,Baseline,8
+80719_site1_cluster285,laserOff,0.266666667,DB32,12,Stimulus,26
+80719_site1_cluster285,laserOff,0.266666667,DB32,13,Baseline,16
+80719_site1_cluster285,laserOff,0.266666667,DB32,13,Stimulus,46
+80719_site1_cluster285,laserOff,0.266666667,DB32,14,Baseline,22
+80719_site1_cluster285,laserOff,0.266666667,DB32,14,Stimulus,26
+80719_site1_cluster285,laserOff,0.266666667,DB32,15,Baseline,22
+80719_site1_cluster285,laserOff,0.266666667,DB32,15,Stimulus,16
+80719_site1_cluster285,laserOff,0.266666667,LG69,16,Baseline,12
+80719_site1_cluster285,laserOff,0.266666667,LG69,16,Stimulus,34
+80719_site1_cluster285,laserOff,0.266666667,LG69,17,Baseline,8
+80719_site1_cluster285,laserOff,0.266666667,LG69,17,Stimulus,28
+80719_site1_cluster285,laserOff,0.266666667,LG69,18,Baseline,22
+80719_site1_cluster285,laserOff,0.266666667,LG69,18,Stimulus,28
+80719_site1_cluster285,laserOff,0.266666667,LG69,19,Baseline,16
+80719_site1_cluster285,laserOff,0.266666667,LG69,19,Stimulus,34
+80719_site1_cluster285,laserOff,0.266666667,LG69,20,Baseline,12
+80719_site1_cluster285,laserOff,0.266666667,LG69,20,Stimulus,22
+80719_site1_cluster71,laserOff,0.466666667,2LG R740,1,Baseline,6
+80719_site1_cluster71,laserOff,0.466666667,2LG R740,1,Stimulus,10
+80719_site1_cluster71,laserOff,0.466666667,2LG R740,2,Baseline,2
+80719_site1_cluster71,laserOff,0.466666667,2LG R740,2,Stimulus,2
+80719_site1_cluster71,laserOff,0.466666667,2LG R740,3,Baseline,4
+80719_site1_cluster71,laserOff,0.466666667,2LG R740,3,Stimulus,2
+80719_site1_cluster71,laserOff,0.466666667,2LG R740,4,Baseline,2
+80719_site1_cluster71,laserOff,0.466666667,2LG R740,4,Stimulus,8
+80719_site1_cluster71,laserOff,0.466666667,2LG R740,5,Baseline,2
+80719_site1_cluster71,laserOff,0.466666667,2LG R740,5,Stimulus,10
+80719_site1_cluster71,laserOff,0.466666667,37_December_05_2007_06_14_04_filtered,6,Baseline,2
+80719_site1_cluster71,laserOff,0.466666667,37_December_05_2007_06_14_04_filtered,6,Stimulus,12
+80719_site1_cluster71,laserOff,0.466666667,37_December_05_2007_06_14_04_filtered,7,Baseline,0
+80719_site1_cluster71,laserOff,0.466666667,37_December_05_2007_06_14_04_filtered,7,Stimulus,4
+80719_site1_cluster71,laserOff,0.466666667,37_December_05_2007_06_14_04_filtered,8,Baseline,4
+80719_site1_cluster71,laserOff,0.466666667,37_December_05_2007_06_14_04_filtered,8,Stimulus,2
+80719_site1_cluster71,laserOff,0.466666667,37_December_05_2007_06_14_04_filtered,9,Baseline,4
+80719_site1_cluster71,laserOff,0.466666667,37_December_05_2007_06_14_04_filtered,9,Stimulus,16
+80719_site1_cluster71,laserOff,0.466666667,37_December_05_2007_06_14_04_filtered,10,Baseline,8
+80719_site1_cluster71,laserOff,0.466666667,37_December_05_2007_06_14_04_filtered,10,Stimulus,10
+80719_site1_cluster71,laserOff,0.466666667,DB32,11,Baseline,2
+80719_site1_cluster71,laserOff,0.466666667,DB32,11,Stimulus,14
+80719_site1_cluster71,laserOff,0.466666667,DB32,12,Baseline,2
+80719_site1_cluster71,laserOff,0.466666667,DB32,12,Stimulus,2
+80719_site1_cluster71,laserOff,0.466666667,DB32,13,Baseline,0
+80719_site1_cluster71,laserOff,0.466666667,DB32,13,Stimulus,10
+80719_site1_cluster71,laserOff,0.466666667,DB32,14,Baseline,4
+80719_site1_cluster71,laserOff,0.466666667,DB32,14,Stimulus,2
+80719_site1_cluster71,laserOff,0.466666667,DB32,15,Baseline,0
+80719_site1_cluster71,laserOff,0.466666667,DB32,15,Stimulus,10
+80719_site1_cluster71,laserOff,0.466666667,LG69,16,Baseline,4
+80719_site1_cluster71,laserOff,0.466666667,LG69,16,Stimulus,2
+80719_site1_cluster71,laserOff,0.466666667,LG69,17,Baseline,0
+80719_site1_cluster71,laserOff,0.466666667,LG69,17,Stimulus,4
+80719_site1_cluster71,laserOff,0.466666667,LG69,18,Baseline,14
+80719_site1_cluster71,laserOff,0.466666667,LG69,18,Stimulus,10
+80719_site1_cluster71,laserOff,0.466666667,LG69,19,Baseline,4
+80719_site1_cluster71,laserOff,0.466666667,LG69,19,Stimulus,0
+80719_site1_cluster71,laserOff,0.466666667,LG69,20,Baseline,2
+80719_site1_cluster71,laserOff,0.466666667,LG69,20,Stimulus,0
+80719_site1_cluster178,laserOn,0.133333333,2LG R740,1,Baseline,8
+80719_site1_cluster178,laserOn,0.133333333,2LG R740,1,Stimulus,22
+80719_site1_cluster178,laserOn,0.133333333,2LG R740,2,Baseline,14
+80719_site1_cluster178,laserOn,0.133333333,2LG R740,2,Stimulus,18
+80719_site1_cluster178,laserOn,0.133333333,2LG R740,3,Baseline,10
+80719_site1_cluster178,laserOn,0.133333333,2LG R740,3,Stimulus,16
+80719_site1_cluster178,laserOn,0.133333333,2LG R740,4,Baseline,0
+80719_site1_cluster178,laserOn,0.133333333,2LG R740,4,Stimulus,16
+80719_site1_cluster178,laserOn,0.133333333,2LG R740,5,Baseline,2
+80719_site1_cluster178,laserOn,0.133333333,2LG R740,5,Stimulus,16
+80719_site1_cluster178,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,6,Baseline,4
+80719_site1_cluster178,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,6,Stimulus,6
+80719_site1_cluster178,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,7,Baseline,2
+80719_site1_cluster178,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,7,Stimulus,6
+80719_site1_cluster178,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,8,Baseline,0
+80719_site1_cluster178,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,8,Stimulus,10
+80719_site1_cluster178,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,9,Baseline,10
+80719_site1_cluster178,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,9,Stimulus,18
+80719_site1_cluster178,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,10,Baseline,0
+80719_site1_cluster178,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,10,Stimulus,8
+80719_site1_cluster178,laserOn,0.133333333,DB32,11,Baseline,10
+80719_site1_cluster178,laserOn,0.133333333,DB32,11,Stimulus,10
+80719_site1_cluster178,laserOn,0.133333333,DB32,12,Baseline,8
+80719_site1_cluster178,laserOn,0.133333333,DB32,12,Stimulus,10
+80719_site1_cluster178,laserOn,0.133333333,DB32,13,Baseline,4
+80719_site1_cluster178,laserOn,0.133333333,DB32,13,Stimulus,8
+80719_site1_cluster178,laserOn,0.133333333,DB32,14,Baseline,2
+80719_site1_cluster178,laserOn,0.133333333,DB32,14,Stimulus,8
+80719_site1_cluster178,laserOn,0.133333333,DB32,15,Baseline,2
+80719_site1_cluster178,laserOn,0.133333333,DB32,15,Stimulus,16
+80719_site1_cluster178,laserOn,0.133333333,LG69,16,Baseline,0
+80719_site1_cluster178,laserOn,0.133333333,LG69,16,Stimulus,16
+80719_site1_cluster178,laserOn,0.133333333,LG69,17,Baseline,12
+80719_site1_cluster178,laserOn,0.133333333,LG69,17,Stimulus,4
+80719_site1_cluster178,laserOn,0.133333333,LG69,18,Baseline,8
+80719_site1_cluster178,laserOn,0.133333333,LG69,18,Stimulus,12
+80719_site1_cluster178,laserOn,0.133333333,LG69,19,Baseline,10
+80719_site1_cluster178,laserOn,0.133333333,LG69,19,Stimulus,16
+80719_site1_cluster178,laserOn,0.133333333,LG69,20,Baseline,4
+80719_site1_cluster178,laserOn,0.133333333,LG69,20,Stimulus,10
+80719_site1_cluster192,laserOn,0.133333333,2LG R740,1,Baseline,66
+80719_site1_cluster192,laserOn,0.133333333,2LG R740,1,Stimulus,80
+80719_site1_cluster192,laserOn,0.133333333,2LG R740,2,Baseline,76
+80719_site1_cluster192,laserOn,0.133333333,2LG R740,2,Stimulus,68
+80719_site1_cluster192,laserOn,0.133333333,2LG R740,3,Baseline,56
+80719_site1_cluster192,laserOn,0.133333333,2LG R740,3,Stimulus,80
+80719_site1_cluster192,laserOn,0.133333333,2LG R740,4,Baseline,78
+80719_site1_cluster192,laserOn,0.133333333,2LG R740,4,Stimulus,88
+80719_site1_cluster192,laserOn,0.133333333,2LG R740,5,Baseline,38
+80719_site1_cluster192,laserOn,0.133333333,2LG R740,5,Stimulus,72
+80719_site1_cluster192,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,6,Baseline,50
+80719_site1_cluster192,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,6,Stimulus,48
+80719_site1_cluster192,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,7,Baseline,50
+80719_site1_cluster192,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,7,Stimulus,66
+80719_site1_cluster192,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,8,Baseline,70
+80719_site1_cluster192,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,8,Stimulus,58
+80719_site1_cluster192,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,9,Baseline,48
+80719_site1_cluster192,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,9,Stimulus,68
+80719_site1_cluster192,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,10,Baseline,66
+80719_site1_cluster192,laserOn,0.133333333,37_December_05_2007_06_14_04_filtered,10,Stimulus,66
+80719_site1_cluster192,laserOn,0.133333333,DB32,11,Baseline,66
+80719_site1_cluster192,laserOn,0.133333333,DB32,11,Stimulus,92
+80719_site1_cluster192,laserOn,0.133333333,DB32,12,Baseline,82
+80719_site1_cluster192,laserOn,0.133333333,DB32,12,Stimulus,100
+80719_site1_cluster192,laserOn,0.133333333,DB32,13,Baseline,66
+80719_site1_cluster192,laserOn,0.133333333,DB32,13,Stimulus,90
+80719_site1_cluster192,laserOn,0.133333333,DB32,14,Baseline,52
+80719_site1_cluster192,laserOn,0.133333333,DB32,14,Stimulus,90
+80719_site1_cluster192,laserOn,0.133333333,DB32,15,Baseline,52
+80719_site1_cluster192,laserOn,0.133333333,DB32,15,Stimulus,88
+80719_site1_cluster192,laserOn,0.133333333,LG69,16,Baseline,58
+80719_site1_cluster192,laserOn,0.133333333,LG69,16,Stimulus,80
+80719_site1_cluster192,laserOn,0.133333333,LG69,17,Baseline,52
+80719_site1_cluster192,laserOn,0.133333333,LG69,17,Stimulus,74
+80719_site1_cluster192,laserOn,0.133333333,LG69,18,Baseline,54
+80719_site1_cluster192,laserOn,0.133333333,LG69,18,Stimulus,76
+80719_site1_cluster192,laserOn,0.133333333,LG69,19,Baseline,52
+80719_site1_cluster192,laserOn,0.133333333,LG69,19,Stimulus,68
+80719_site1_cluster192,laserOn,0.133333333,LG69,20,Baseline,78
+80719_site1_cluster192,laserOn,0.133333333,LG69,20,Stimulus,80
+80719_site1_cluster282,laserOn,0.266666667,2LG R740,1,Baseline,12
+80719_site1_cluster282,laserOn,0.266666667,2LG R740,1,Stimulus,18
+80719_site1_cluster282,laserOn,0.266666667,2LG R740,2,Baseline,12
+80719_site1_cluster282,laserOn,0.266666667,2LG R740,2,Stimulus,24
+80719_site1_cluster282,laserOn,0.266666667,2LG R740,3,Baseline,6
+80719_site1_cluster282,laserOn,0.266666667,2LG R740,3,Stimulus,8
+80719_site1_cluster282,laserOn,0.266666667,2LG R740,4,Baseline,12
+80719_site1_cluster282,laserOn,0.266666667,2LG R740,4,Stimulus,30
+80719_site1_cluster282,laserOn,0.266666667,2LG R740,5,Baseline,4
+80719_site1_cluster282,laserOn,0.266666667,2LG R740,5,Stimulus,14
+80719_site1_cluster282,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,6,Baseline,8
+80719_site1_cluster282,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,6,Stimulus,14
+80719_site1_cluster282,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,7,Baseline,14
+80719_site1_cluster282,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,7,Stimulus,20
+80719_site1_cluster282,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,8,Baseline,4
+80719_site1_cluster282,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,8,Stimulus,24
+80719_site1_cluster282,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,9,Baseline,8
+80719_site1_cluster282,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,9,Stimulus,10
+80719_site1_cluster282,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,10,Baseline,12
+80719_site1_cluster282,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,10,Stimulus,22
+80719_site1_cluster282,laserOn,0.266666667,DB32,11,Baseline,6
+80719_site1_cluster282,laserOn,0.266666667,DB32,11,Stimulus,30
+80719_site1_cluster282,laserOn,0.266666667,DB32,12,Baseline,0
+80719_site1_cluster282,laserOn,0.266666667,DB32,12,Stimulus,32
+80719_site1_cluster282,laserOn,0.266666667,DB32,13,Baseline,0
+80719_site1_cluster282,laserOn,0.266666667,DB32,13,Stimulus,36
+80719_site1_cluster282,laserOn,0.266666667,DB32,14,Baseline,14
+80719_site1_cluster282,laserOn,0.266666667,DB32,14,Stimulus,12
+80719_site1_cluster282,laserOn,0.266666667,DB32,15,Baseline,16
+80719_site1_cluster282,laserOn,0.266666667,DB32,15,Stimulus,28
+80719_site1_cluster282,laserOn,0.266666667,LG69,16,Baseline,2
+80719_site1_cluster282,laserOn,0.266666667,LG69,16,Stimulus,24
+80719_site1_cluster282,laserOn,0.266666667,LG69,17,Baseline,10
+80719_site1_cluster282,laserOn,0.266666667,LG69,17,Stimulus,30
+80719_site1_cluster282,laserOn,0.266666667,LG69,18,Baseline,10
+80719_site1_cluster282,laserOn,0.266666667,LG69,18,Stimulus,22
+80719_site1_cluster282,laserOn,0.266666667,LG69,19,Baseline,6
+80719_site1_cluster282,laserOn,0.266666667,LG69,19,Stimulus,32
+80719_site1_cluster282,laserOn,0.266666667,LG69,20,Baseline,14
+80719_site1_cluster282,laserOn,0.266666667,LG69,20,Stimulus,28
+80719_site1_cluster284,laserOn,0.6,2LG R740,1,Baseline,10
+80719_site1_cluster284,laserOn,0.6,2LG R740,1,Stimulus,14
+80719_site1_cluster284,laserOn,0.6,2LG R740,2,Baseline,8
+80719_site1_cluster284,laserOn,0.6,2LG R740,2,Stimulus,10
+80719_site1_cluster284,laserOn,0.6,2LG R740,3,Baseline,8
+80719_site1_cluster284,laserOn,0.6,2LG R740,3,Stimulus,6
+80719_site1_cluster284,laserOn,0.6,2LG R740,4,Baseline,10
+80719_site1_cluster284,laserOn,0.6,2LG R740,4,Stimulus,14
+80719_site1_cluster284,laserOn,0.6,2LG R740,5,Baseline,8
+80719_site1_cluster284,laserOn,0.6,2LG R740,5,Stimulus,6
+80719_site1_cluster284,laserOn,0.6,37_December_05_2007_06_14_04_filtered,6,Baseline,8
+80719_site1_cluster284,laserOn,0.6,37_December_05_2007_06_14_04_filtered,6,Stimulus,8
+80719_site1_cluster284,laserOn,0.6,37_December_05_2007_06_14_04_filtered,7,Baseline,12
+80719_site1_cluster284,laserOn,0.6,37_December_05_2007_06_14_04_filtered,7,Stimulus,20
+80719_site1_cluster284,laserOn,0.6,37_December_05_2007_06_14_04_filtered,8,Baseline,12
+80719_site1_cluster284,laserOn,0.6,37_December_05_2007_06_14_04_filtered,8,Stimulus,12
+80719_site1_cluster284,laserOn,0.6,37_December_05_2007_06_14_04_filtered,9,Baseline,10
+80719_site1_cluster284,laserOn,0.6,37_December_05_2007_06_14_04_filtered,9,Stimulus,12
+80719_site1_cluster284,laserOn,0.6,37_December_05_2007_06_14_04_filtered,10,Baseline,12
+80719_site1_cluster284,laserOn,0.6,37_December_05_2007_06_14_04_filtered,10,Stimulus,16
+80719_site1_cluster284,laserOn,0.6,DB32,11,Baseline,4
+80719_site1_cluster284,laserOn,0.6,DB32,11,Stimulus,16
+80719_site1_cluster284,laserOn,0.6,DB32,12,Baseline,6
+80719_site1_cluster284,laserOn,0.6,DB32,12,Stimulus,14
+80719_site1_cluster284,laserOn,0.6,DB32,13,Baseline,16
+80719_site1_cluster284,laserOn,0.6,DB32,13,Stimulus,12
+80719_site1_cluster284,laserOn,0.6,DB32,14,Baseline,14
+80719_site1_cluster284,laserOn,0.6,DB32,14,Stimulus,20
+80719_site1_cluster284,laserOn,0.6,DB32,15,Baseline,10
+80719_site1_cluster284,laserOn,0.6,DB32,15,Stimulus,14
+80719_site1_cluster284,laserOn,0.6,LG69,16,Baseline,10
+80719_site1_cluster284,laserOn,0.6,LG69,16,Stimulus,12
+80719_site1_cluster284,laserOn,0.6,LG69,17,Baseline,10
+80719_site1_cluster284,laserOn,0.6,LG69,17,Stimulus,6
+80719_site1_cluster284,laserOn,0.6,LG69,18,Baseline,12
+80719_site1_cluster284,laserOn,0.6,LG69,18,Stimulus,4
+80719_site1_cluster284,laserOn,0.6,LG69,19,Baseline,6
+80719_site1_cluster284,laserOn,0.6,LG69,19,Stimulus,8
+80719_site1_cluster284,laserOn,0.6,LG69,20,Baseline,6
+80719_site1_cluster284,laserOn,0.6,LG69,20,Stimulus,12
+80719_site1_cluster285,laserOn,0.266666667,2LG R740,1,Baseline,22
+80719_site1_cluster285,laserOn,0.266666667,2LG R740,1,Stimulus,32
+80719_site1_cluster285,laserOn,0.266666667,2LG R740,2,Baseline,16
+80719_site1_cluster285,laserOn,0.266666667,2LG R740,2,Stimulus,16
+80719_site1_cluster285,laserOn,0.266666667,2LG R740,3,Baseline,10
+80719_site1_cluster285,laserOn,0.266666667,2LG R740,3,Stimulus,22
+80719_site1_cluster285,laserOn,0.266666667,2LG R740,4,Baseline,4
+80719_site1_cluster285,laserOn,0.266666667,2LG R740,4,Stimulus,10
+80719_site1_cluster285,laserOn,0.266666667,2LG R740,5,Baseline,6
+80719_site1_cluster285,laserOn,0.266666667,2LG R740,5,Stimulus,20
+80719_site1_cluster285,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,6,Baseline,8
+80719_site1_cluster285,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,6,Stimulus,24
+80719_site1_cluster285,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,7,Baseline,6
+80719_site1_cluster285,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,7,Stimulus,14
+80719_site1_cluster285,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,8,Baseline,6
+80719_site1_cluster285,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,8,Stimulus,8
+80719_site1_cluster285,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,9,Baseline,10
+80719_site1_cluster285,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,9,Stimulus,16
+80719_site1_cluster285,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,10,Baseline,4
+80719_site1_cluster285,laserOn,0.266666667,37_December_05_2007_06_14_04_filtered,10,Stimulus,4
+80719_site1_cluster285,laserOn,0.266666667,DB32,11,Baseline,12
+80719_site1_cluster285,laserOn,0.266666667,DB32,11,Stimulus,28
+80719_site1_cluster285,laserOn,0.266666667,DB32,12,Baseline,14
+80719_site1_cluster285,laserOn,0.266666667,DB32,12,Stimulus,18
+80719_site1_cluster285,laserOn,0.266666667,DB32,13,Baseline,4
+80719_site1_cluster285,laserOn,0.266666667,DB32,13,Stimulus,20
+80719_site1_cluster285,laserOn,0.266666667,DB32,14,Baseline,12
+80719_site1_cluster285,laserOn,0.266666667,DB32,14,Stimulus,14
+80719_site1_cluster285,laserOn,0.266666667,DB32,15,Baseline,10
+80719_site1_cluster285,laserOn,0.266666667,DB32,15,Stimulus,20
+80719_site1_cluster285,laserOn,0.266666667,LG69,16,Baseline,8
+80719_site1_cluster285,laserOn,0.266666667,LG69,16,Stimulus,24
+80719_site1_cluster285,laserOn,0.266666667,LG69,17,Baseline,16
+80719_site1_cluster285,laserOn,0.266666667,LG69,17,Stimulus,12
+80719_site1_cluster285,laserOn,0.266666667,LG69,18,Baseline,6
+80719_site1_cluster285,laserOn,0.266666667,LG69,18,Stimulus,8
+80719_site1_cluster285,laserOn,0.266666667,LG69,19,Baseline,18
+80719_site1_cluster285,laserOn,0.266666667,LG69,19,Stimulus,22
+80719_site1_cluster285,laserOn,0.266666667,LG69,20,Baseline,14
+80719_site1_cluster285,laserOn,0.266666667,LG69,20,Stimulus,18
+80719_site1_cluster71,laserOn,0.466666667,2LG R740,1,Baseline,4
+80719_site1_cluster71,laserOn,0.466666667,2LG R740,1,Stimulus,4
+80719_site1_cluster71,laserOn,0.466666667,2LG R740,2,Baseline,2
+80719_site1_cluster71,laserOn,0.466666667,2LG R740,2,Stimulus,2
+80719_site1_cluster71,laserOn,0.466666667,2LG R740,3,Baseline,6
+80719_site1_cluster71,laserOn,0.466666667,2LG R740,3,Stimulus,2
+80719_site1_cluster71,laserOn,0.466666667,2LG R740,4,Baseline,0
+80719_site1_cluster71,laserOn,0.466666667,2LG R740,4,Stimulus,6
+80719_site1_cluster71,laserOn,0.466666667,2LG R740,5,Baseline,0
+80719_site1_cluster71,laserOn,0.466666667,2LG R740,5,Stimulus,4
+80719_site1_cluster71,laserOn,0.466666667,37_December_05_2007_06_14_04_filtered,6,Baseline,0
+80719_site1_cluster71,laserOn,0.466666667,37_December_05_2007_06_14_04_filtered,6,Stimulus,6
+80719_site1_cluster71,laserOn,0.466666667,37_December_05_2007_06_14_04_filtered,7,Baseline,0
+80719_site1_cluster71,laserOn,0.466666667,37_December_05_2007_06_14_04_filtered,7,Stimulus,4
+80719_site1_cluster71,laserOn,0.466666667,37_December_05_2007_06_14_04_filtered,8,Baseline,2
+80719_site1_cluster71,laserOn,0.466666667,37_December_05_2007_06_14_04_filtered,8,Stimulus,6
+80719_site1_cluster71,laserOn,0.466666667,37_December_05_2007_06_14_04_filtered,9,Baseline,4
+80719_site1_cluster71,laserOn,0.466666667,37_December_05_2007_06_14_04_filtered,9,Stimulus,2
+80719_site1_cluster71,laserOn,0.466666667,37_December_05_2007_06_14_04_filtered,10,Baseline,0
+80719_site1_cluster71,laserOn,0.466666667,37_December_05_2007_06_14_04_filtered,10,Stimulus,8
+80719_site1_cluster71,laserOn,0.466666667,DB32,11,Baseline,0
+80719_site1_cluster71,laserOn,0.466666667,DB32,11,Stimulus,8
+80719_site1_cluster71,laserOn,0.466666667,DB32,12,Baseline,2
+80719_site1_cluster71,laserOn,0.466666667,DB32,12,Stimulus,6
+80719_site1_cluster71,laserOn,0.466666667,DB32,13,Baseline,0
+80719_site1_cluster71,laserOn,0.466666667,DB32,13,Stimulus,6
+80719_site1_cluster71,laserOn,0.466666667,DB32,14,Baseline,0
+80719_site1_cluster71,laserOn,0.466666667,DB32,14,Stimulus,8
+80719_site1_cluster71,laserOn,0.466666667,DB32,15,Baseline,2
+80719_site1_cluster71,laserOn,0.466666667,DB32,15,Stimulus,0
+80719_site1_cluster71,laserOn,0.466666667,LG69,16,Baseline,4
+80719_site1_cluster71,laserOn,0.466666667,LG69,16,Stimulus,4
+80719_site1_cluster71,laserOn,0.466666667,LG69,17,Baseline,6
+80719_site1_cluster71,laserOn,0.466666667,LG69,17,Stimulus,4
+80719_site1_cluster71,laserOn,0.466666667,LG69,18,Baseline,0
+80719_site1_cluster71,laserOn,0.466666667,LG69,18,Stimulus,0
+80719_site1_cluster71,laserOn,0.466666667,LG69,19,Baseline,0
+80719_site1_cluster71,laserOn,0.466666667,LG69,19,Stimulus,6
+80719_site1_cluster71,laserOn,0.466666667,LG69,20,Baseline,2
+80719_site1_cluster71,laserOn,0.466666667,LG69,20,Stimulus,2
+80719_site2_cluster160,laserOff,0.133333333,2535_July_08_2008_08_56_19_filtered,1,Baseline,4
+80719_site2_cluster160,laserOff,0.133333333,2535_July_08_2008_08_56_19_filtered,1,Stimulus,0
+80719_site2_cluster160,laserOff,0.133333333,2535_July_08_2008_08_56_19_filtered,2,Baseline,6
+80719_site2_cluster160,laserOff,0.133333333,2535_July_08_2008_08_56_19_filtered,2,Stimulus,4
+80719_site2_cluster160,laserOff,0.133333333,2535_July_08_2008_08_56_19_filtered,3,Baseline,2
+80719_site2_cluster160,laserOff,0.133333333,2535_July_08_2008_08_56_19_filtered,3,Stimulus,10
+80719_site2_cluster160,laserOff,0.133333333,2535_July_08_2008_08_56_19_filtered,4,Baseline,2
+80719_site2_cluster160,laserOff,0.133333333,2535_July_08_2008_08_56_19_filtered,4,Stimulus,12
+80719_site2_cluster160,laserOff,0.133333333,2535_July_08_2008_08_56_19_filtered,5,Baseline,2
+80719_site2_cluster160,laserOff,0.133333333,2535_July_08_2008_08_56_19_filtered,5,Stimulus,2
+80719_site2_cluster160,laserOff,0.133333333,DK PK210,6,Baseline,0
+80719_site2_cluster160,laserOff,0.133333333,DK PK210,6,Stimulus,4
+80719_site2_cluster160,laserOff,0.133333333,DK PK210,7,Baseline,2
+80719_site2_cluster160,laserOff,0.133333333,DK PK210,7,Stimulus,4
+80719_site2_cluster160,laserOff,0.133333333,DK PK210,8,Baseline,2
+80719_site2_cluster160,laserOff,0.133333333,DK PK210,8,Stimulus,4
+80719_site2_cluster160,laserOff,0.133333333,DK PK210,9,Baseline,4
+80719_site2_cluster160,laserOff,0.133333333,DK PK210,9,Stimulus,10
+80719_site2_cluster160,laserOff,0.133333333,DK PK210,10,Baseline,6
+80719_site2_cluster160,laserOff,0.133333333,DK PK210,10,Stimulus,8
+80719_site2_cluster160,laserOff,0.133333333,LG-R DG63,11,Baseline,2
+80719_site2_cluster160,laserOff,0.133333333,LG-R DG63,11,Stimulus,8
+80719_site2_cluster160,laserOff,0.133333333,LG-R DG63,12,Baseline,2
+80719_site2_cluster160,laserOff,0.133333333,LG-R DG63,12,Stimulus,4
+80719_site2_cluster160,laserOff,0.133333333,LG-R DG63,13,Baseline,2
+80719_site2_cluster160,laserOff,0.133333333,LG-R DG63,13,Stimulus,8
+80719_site2_cluster160,laserOff,0.133333333,LG-R DG63,14,Baseline,2
+80719_site2_cluster160,laserOff,0.133333333,LG-R DG63,14,Stimulus,8
+80719_site2_cluster160,laserOff,0.133333333,LG-R DG63,15,Baseline,8
+80719_site2_cluster160,laserOff,0.133333333,LG-R DG63,15,Stimulus,8
+80719_site2_cluster160,laserOff,0.133333333,M582 Y890,16,Baseline,2
+80719_site2_cluster160,laserOff,0.133333333,M582 Y890,16,Stimulus,2
+80719_site2_cluster160,laserOff,0.133333333,M582 Y890,17,Baseline,4
+80719_site2_cluster160,laserOff,0.133333333,M582 Y890,17,Stimulus,6
+80719_site2_cluster160,laserOff,0.133333333,M582 Y890,18,Baseline,6
+80719_site2_cluster160,laserOff,0.133333333,M582 Y890,18,Stimulus,6
+80719_site2_cluster160,laserOff,0.133333333,M582 Y890,19,Baseline,10
+80719_site2_cluster160,laserOff,0.133333333,M582 Y890,19,Stimulus,2
+80719_site2_cluster160,laserOff,0.133333333,M582 Y890,20,Baseline,4
+80719_site2_cluster160,laserOff,0.133333333,M582 Y890,20,Stimulus,4
+80719_site2_cluster171,laserOff,0.466666667,2535_July_08_2008_08_56_19_filtered,1,Baseline,10
+80719_site2_cluster171,laserOff,0.466666667,2535_July_08_2008_08_56_19_filtered,1,Stimulus,2
+80719_site2_cluster171,laserOff,0.466666667,2535_July_08_2008_08_56_19_filtered,2,Baseline,2
+80719_site2_cluster171,laserOff,0.466666667,2535_July_08_2008_08_56_19_filtered,2,Stimulus,0
+80719_site2_cluster171,laserOff,0.466666667,2535_July_08_2008_08_56_19_filtered,3,Baseline,4
+80719_site2_cluster171,laserOff,0.466666667,2535_July_08_2008_08_56_19_filtered,3,Stimulus,6
+80719_site2_cluster171,laserOff,0.466666667,2535_July_08_2008_08_56_19_filtered,4,Baseline,0
+80719_site2_cluster171,laserOff,0.466666667,2535_July_08_2008_08_56_19_filtered,4,Stimulus,4
+80719_site2_cluster171,laserOff,0.466666667,2535_July_08_2008_08_56_19_filtered,5,Baseline,4
+80719_site2_cluster171,laserOff,0.466666667,2535_July_08_2008_08_56_19_filtered,5,Stimulus,2
+80719_site2_cluster171,laserOff,0.466666667,DK PK210,6,Baseline,2
+80719_site2_cluster171,laserOff,0.466666667,DK PK210,6,Stimulus,2
+80719_site2_cluster171,laserOff,0.466666667,DK PK210,7,Baseline,8
+80719_site2_cluster171,laserOff,0.466666667,DK PK210,7,Stimulus,0
+80719_site2_cluster171,laserOff,0.466666667,DK PK210,8,Baseline,10
+80719_site2_cluster171,laserOff,0.466666667,DK PK210,8,Stimulus,2
+80719_site2_cluster171,laserOff,0.466666667,DK PK210,9,Baseline,2
+80719_site2_cluster171,laserOff,0.466666667,DK PK210,9,Stimulus,0
+80719_site2_cluster171,laserOff,0.466666667,DK PK210,10,Baseline,4
+80719_site2_cluster171,laserOff,0.466666667,DK PK210,10,Stimulus,2
+80719_site2_cluster171,laserOff,0.466666667,LG-R DG63,11,Baseline,0
+80719_site2_cluster171,laserOff,0.466666667,LG-R DG63,11,Stimulus,0
+80719_site2_cluster171,laserOff,0.466666667,LG-R DG63,12,Baseline,4
+80719_site2_cluster171,laserOff,0.466666667,LG-R DG63,12,Stimulus,2
+80719_site2_cluster171,laserOff,0.466666667,LG-R DG63,13,Baseline,14
+80719_site2_cluster171,laserOff,0.466666667,LG-R DG63,13,Stimulus,4
+80719_site2_cluster171,laserOff,0.466666667,LG-R DG63,14,Baseline,0
+80719_site2_cluster171,laserOff,0.466666667,LG-R DG63,14,Stimulus,4
+80719_site2_cluster171,laserOff,0.466666667,LG-R DG63,15,Baseline,4
+80719_site2_cluster171,laserOff,0.466666667,LG-R DG63,15,Stimulus,2
+80719_site2_cluster171,laserOff,0.466666667,M582 Y890,16,Baseline,2
+80719_site2_cluster171,laserOff,0.466666667,M582 Y890,16,Stimulus,2
+80719_site2_cluster171,laserOff,0.466666667,M582 Y890,17,Baseline,2
+80719_site2_cluster171,laserOff,0.466666667,M582 Y890,17,Stimulus,4
+80719_site2_cluster171,laserOff,0.466666667,M582 Y890,18,Baseline,4
+80719_site2_cluster171,laserOff,0.466666667,M582 Y890,18,Stimulus,0
+80719_site2_cluster171,laserOff,0.466666667,M582 Y890,19,Baseline,2
+80719_site2_cluster171,laserOff,0.466666667,M582 Y890,19,Stimulus,4
+80719_site2_cluster171,laserOff,0.466666667,M582 Y890,20,Baseline,2
+80719_site2_cluster171,laserOff,0.466666667,M582 Y890,20,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,2535_July_08_2008_08_56_19_filtered,1,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,2535_July_08_2008_08_56_19_filtered,1,Stimulus,4
+80719_site2_cluster238,laserOff,0.666666667,2535_July_08_2008_08_56_19_filtered,2,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,2535_July_08_2008_08_56_19_filtered,2,Stimulus,2
+80719_site2_cluster238,laserOff,0.666666667,2535_July_08_2008_08_56_19_filtered,3,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,2535_July_08_2008_08_56_19_filtered,3,Stimulus,8
+80719_site2_cluster238,laserOff,0.666666667,2535_July_08_2008_08_56_19_filtered,4,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,2535_July_08_2008_08_56_19_filtered,4,Stimulus,6
+80719_site2_cluster238,laserOff,0.666666667,2535_July_08_2008_08_56_19_filtered,5,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,2535_July_08_2008_08_56_19_filtered,5,Stimulus,2
+80719_site2_cluster238,laserOff,0.666666667,DK PK210,6,Baseline,2
+80719_site2_cluster238,laserOff,0.666666667,DK PK210,6,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,DK PK210,7,Baseline,4
+80719_site2_cluster238,laserOff,0.666666667,DK PK210,7,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,DK PK210,8,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,DK PK210,8,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,DK PK210,9,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,DK PK210,9,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,DK PK210,10,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,DK PK210,10,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,LG-R DG63,11,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,LG-R DG63,11,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,LG-R DG63,12,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,LG-R DG63,12,Stimulus,2
+80719_site2_cluster238,laserOff,0.666666667,LG-R DG63,13,Baseline,4
+80719_site2_cluster238,laserOff,0.666666667,LG-R DG63,13,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,LG-R DG63,14,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,LG-R DG63,14,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,LG-R DG63,15,Baseline,4
+80719_site2_cluster238,laserOff,0.666666667,LG-R DG63,15,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,M582 Y890,16,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,M582 Y890,16,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,M582 Y890,17,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,M582 Y890,17,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,M582 Y890,18,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,M582 Y890,18,Stimulus,0
+80719_site2_cluster238,laserOff,0.666666667,M582 Y890,19,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,M582 Y890,19,Stimulus,4
+80719_site2_cluster238,laserOff,0.666666667,M582 Y890,20,Baseline,0
+80719_site2_cluster238,laserOff,0.666666667,M582 Y890,20,Stimulus,0
+80719_site2_cluster160,laserOn,0.133333333,2535_July_08_2008_08_56_19_filtered,1,Baseline,6
+80719_site2_cluster160,laserOn,0.133333333,2535_July_08_2008_08_56_19_filtered,1,Stimulus,4
+80719_site2_cluster160,laserOn,0.133333333,2535_July_08_2008_08_56_19_filtered,2,Baseline,2
+80719_site2_cluster160,laserOn,0.133333333,2535_July_08_2008_08_56_19_filtered,2,Stimulus,4
+80719_site2_cluster160,laserOn,0.133333333,2535_July_08_2008_08_56_19_filtered,3,Baseline,6
+80719_site2_cluster160,laserOn,0.133333333,2535_July_08_2008_08_56_19_filtered,3,Stimulus,6
+80719_site2_cluster160,laserOn,0.133333333,2535_July_08_2008_08_56_19_filtered,4,Baseline,4
+80719_site2_cluster160,laserOn,0.133333333,2535_July_08_2008_08_56_19_filtered,4,Stimulus,2
+80719_site2_cluster160,laserOn,0.133333333,2535_July_08_2008_08_56_19_filtered,5,Baseline,2
+80719_site2_cluster160,laserOn,0.133333333,2535_July_08_2008_08_56_19_filtered,5,Stimulus,8
+80719_site2_cluster160,laserOn,0.133333333,DK PK210,6,Baseline,8
+80719_site2_cluster160,laserOn,0.133333333,DK PK210,6,Stimulus,12
+80719_site2_cluster160,laserOn,0.133333333,DK PK210,7,Baseline,6
+80719_site2_cluster160,laserOn,0.133333333,DK PK210,7,Stimulus,6
+80719_site2_cluster160,laserOn,0.133333333,DK PK210,8,Baseline,4
+80719_site2_cluster160,laserOn,0.133333333,DK PK210,8,Stimulus,8
+80719_site2_cluster160,laserOn,0.133333333,DK PK210,9,Baseline,8
+80719_site2_cluster160,laserOn,0.133333333,DK PK210,9,Stimulus,10
+80719_site2_cluster160,laserOn,0.133333333,DK PK210,10,Baseline,2
+80719_site2_cluster160,laserOn,0.133333333,DK PK210,10,Stimulus,8
+80719_site2_cluster160,laserOn,0.133333333,LG-R DG63,11,Baseline,4
+80719_site2_cluster160,laserOn,0.133333333,LG-R DG63,11,Stimulus,14
+80719_site2_cluster160,laserOn,0.133333333,LG-R DG63,12,Baseline,4
+80719_site2_cluster160,laserOn,0.133333333,LG-R DG63,12,Stimulus,10
+80719_site2_cluster160,laserOn,0.133333333,LG-R DG63,13,Baseline,4
+80719_site2_cluster160,laserOn,0.133333333,LG-R DG63,13,Stimulus,2
+80719_site2_cluster160,laserOn,0.133333333,LG-R DG63,14,Baseline,4
+80719_site2_cluster160,laserOn,0.133333333,LG-R DG63,14,Stimulus,8
+80719_site2_cluster160,laserOn,0.133333333,LG-R DG63,15,Baseline,4
+80719_site2_cluster160,laserOn,0.133333333,LG-R DG63,15,Stimulus,12
+80719_site2_cluster160,laserOn,0.133333333,M582 Y890,16,Baseline,0
+80719_site2_cluster160,laserOn,0.133333333,M582 Y890,16,Stimulus,8
+80719_site2_cluster160,laserOn,0.133333333,M582 Y890,17,Baseline,6
+80719_site2_cluster160,laserOn,0.133333333,M582 Y890,17,Stimulus,4
+80719_site2_cluster160,laserOn,0.133333333,M582 Y890,18,Baseline,2
+80719_site2_cluster160,laserOn,0.133333333,M582 Y890,18,Stimulus,8
+80719_site2_cluster160,laserOn,0.133333333,M582 Y890,19,Baseline,6
+80719_site2_cluster160,laserOn,0.133333333,M582 Y890,19,Stimulus,0
+80719_site2_cluster160,laserOn,0.133333333,M582 Y890,20,Baseline,8
+80719_site2_cluster160,laserOn,0.133333333,M582 Y890,20,Stimulus,12
+80719_site2_cluster171,laserOn,0.466666667,2535_July_08_2008_08_56_19_filtered,1,Baseline,10
+80719_site2_cluster171,laserOn,0.466666667,2535_July_08_2008_08_56_19_filtered,1,Stimulus,0
+80719_site2_cluster171,laserOn,0.466666667,2535_July_08_2008_08_56_19_filtered,2,Baseline,6
+80719_site2_cluster171,laserOn,0.466666667,2535_July_08_2008_08_56_19_filtered,2,Stimulus,10
+80719_site2_cluster171,laserOn,0.466666667,2535_July_08_2008_08_56_19_filtered,3,Baseline,4
+80719_site2_cluster171,laserOn,0.466666667,2535_July_08_2008_08_56_19_filtered,3,Stimulus,4
+80719_site2_cluster171,laserOn,0.466666667,2535_July_08_2008_08_56_19_filtered,4,Baseline,0
+80719_site2_cluster171,laserOn,0.466666667,2535_July_08_2008_08_56_19_filtered,4,Stimulus,0
+80719_site2_cluster171,laserOn,0.466666667,2535_July_08_2008_08_56_19_filtered,5,Baseline,8
+80719_site2_cluster171,laserOn,0.466666667,2535_July_08_2008_08_56_19_filtered,5,Stimulus,10
+80719_site2_cluster171,laserOn,0.466666667,DK PK210,6,Baseline,0
+80719_site2_cluster171,laserOn,0.466666667,DK PK210,6,Stimulus,0
+80719_site2_cluster171,laserOn,0.466666667,DK PK210,7,Baseline,2
+80719_site2_cluster171,laserOn,0.466666667,DK PK210,7,Stimulus,0
+80719_site2_cluster171,laserOn,0.466666667,DK PK210,8,Baseline,0
+80719_site2_cluster171,laserOn,0.466666667,DK PK210,8,Stimulus,2
+80719_site2_cluster171,laserOn,0.466666667,DK PK210,9,Baseline,0
+80719_site2_cluster171,laserOn,0.466666667,DK PK210,9,Stimulus,4
+80719_site2_cluster171,laserOn,0.466666667,DK PK210,10,Baseline,4
+80719_site2_cluster171,laserOn,0.466666667,DK PK210,10,Stimulus,0
+80719_site2_cluster171,laserOn,0.466666667,LG-R DG63,11,Baseline,12
+80719_site2_cluster171,laserOn,0.466666667,LG-R DG63,11,Stimulus,2
+80719_site2_cluster171,laserOn,0.466666667,LG-R DG63,12,Baseline,0
+80719_site2_cluster171,laserOn,0.466666667,LG-R DG63,12,Stimulus,6
+80719_site2_cluster171,laserOn,0.466666667,LG-R DG63,13,Baseline,2
+80719_site2_cluster171,laserOn,0.466666667,LG-R DG63,13,Stimulus,2
+80719_site2_cluster171,laserOn,0.466666667,LG-R DG63,14,Baseline,0
+80719_site2_cluster171,laserOn,0.466666667,LG-R DG63,14,Stimulus,2
+80719_site2_cluster171,laserOn,0.466666667,LG-R DG63,15,Baseline,4
+80719_site2_cluster171,laserOn,0.466666667,LG-R DG63,15,Stimulus,2
+80719_site2_cluster171,laserOn,0.466666667,M582 Y890,16,Baseline,0
+80719_site2_cluster171,laserOn,0.466666667,M582 Y890,16,Stimulus,0
+80719_site2_cluster171,laserOn,0.466666667,M582 Y890,17,Baseline,4
+80719_site2_cluster171,laserOn,0.466666667,M582 Y890,17,Stimulus,6
+80719_site2_cluster171,laserOn,0.466666667,M582 Y890,18,Baseline,0
+80719_site2_cluster171,laserOn,0.466666667,M582 Y890,18,Stimulus,0
+80719_site2_cluster171,laserOn,0.466666667,M582 Y890,19,Baseline,2
+80719_site2_cluster171,laserOn,0.466666667,M582 Y890,19,Stimulus,2
+80719_site2_cluster171,laserOn,0.466666667,M582 Y890,20,Baseline,0
+80719_site2_cluster171,laserOn,0.466666667,M582 Y890,20,Stimulus,2
+80719_site2_cluster238,laserOn,0.666666667,2535_July_08_2008_08_56_19_filtered,1,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,2535_July_08_2008_08_56_19_filtered,1,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,2535_July_08_2008_08_56_19_filtered,2,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,2535_July_08_2008_08_56_19_filtered,2,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,2535_July_08_2008_08_56_19_filtered,3,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,2535_July_08_2008_08_56_19_filtered,3,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,2535_July_08_2008_08_56_19_filtered,4,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,2535_July_08_2008_08_56_19_filtered,4,Stimulus,6
+80719_site2_cluster238,laserOn,0.666666667,2535_July_08_2008_08_56_19_filtered,5,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,2535_July_08_2008_08_56_19_filtered,5,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,DK PK210,6,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,DK PK210,6,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,DK PK210,7,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,DK PK210,7,Stimulus,6
+80719_site2_cluster238,laserOn,0.666666667,DK PK210,8,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,DK PK210,8,Stimulus,2
+80719_site2_cluster238,laserOn,0.666666667,DK PK210,9,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,DK PK210,9,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,DK PK210,10,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,DK PK210,10,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,LG-R DG63,11,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,LG-R DG63,11,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,LG-R DG63,12,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,LG-R DG63,12,Stimulus,2
+80719_site2_cluster238,laserOn,0.666666667,LG-R DG63,13,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,LG-R DG63,13,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,LG-R DG63,14,Baseline,2
+80719_site2_cluster238,laserOn,0.666666667,LG-R DG63,14,Stimulus,2
+80719_site2_cluster238,laserOn,0.666666667,LG-R DG63,15,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,LG-R DG63,15,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,M582 Y890,16,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,M582 Y890,16,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,M582 Y890,17,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,M582 Y890,17,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,M582 Y890,18,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,M582 Y890,18,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,M582 Y890,19,Baseline,2
+80719_site2_cluster238,laserOn,0.666666667,M582 Y890,19,Stimulus,0
+80719_site2_cluster238,laserOn,0.666666667,M582 Y890,20,Baseline,0
+80719_site2_cluster238,laserOn,0.666666667,M582 Y890,20,Stimulus,4
+80719_site3_cluster181,laserOff,0.166666667,M632,1,Baseline,0
+80719_site3_cluster181,laserOff,0.166666667,M632,1,Stimulus,0
+80719_site3_cluster181,laserOff,0.166666667,M632,2,Baseline,4
+80719_site3_cluster181,laserOff,0.166666667,M632,2,Stimulus,6
+80719_site3_cluster181,laserOff,0.166666667,M632,3,Baseline,0
+80719_site3_cluster181,laserOff,0.166666667,M632,3,Stimulus,0
+80719_site3_cluster181,laserOff,0.166666667,M632,4,Baseline,0
+80719_site3_cluster181,laserOff,0.166666667,M632,4,Stimulus,2
+80719_site3_cluster181,laserOff,0.166666667,M632,5,Baseline,0
+80719_site3_cluster181,laserOff,0.166666667,M632,5,Stimulus,4
+80719_site3_cluster181,laserOff,0.166666667,OR-WH LG159,6,Baseline,0
+80719_site3_cluster181,laserOff,0.166666667,OR-WH LG159,6,Stimulus,2
+80719_site3_cluster181,laserOff,0.166666667,OR-WH LG159,7,Baseline,2
+80719_site3_cluster181,laserOff,0.166666667,OR-WH LG159,7,Stimulus,2
+80719_site3_cluster181,laserOff,0.166666667,OR-WH LG159,8,Baseline,4
+80719_site3_cluster181,laserOff,0.166666667,OR-WH LG159,8,Stimulus,2
+80719_site3_cluster181,laserOff,0.166666667,OR-WH LG159,9,Baseline,2
+80719_site3_cluster181,laserOff,0.166666667,OR-WH LG159,9,Stimulus,0
+80719_site3_cluster181,laserOff,0.166666667,OR-WH LG159,10,Baseline,0
+80719_site3_cluster181,laserOff,0.166666667,OR-WH LG159,10,Stimulus,2
+80719_site3_cluster181,laserOff,0.166666667,R-DG R749,11,Baseline,2
+80719_site3_cluster181,laserOff,0.166666667,R-DG R749,11,Stimulus,4
+80719_site3_cluster181,laserOff,0.166666667,R-DG R749,12,Baseline,2
+80719_site3_cluster181,laserOff,0.166666667,R-DG R749,12,Stimulus,6
+80719_site3_cluster181,laserOff,0.166666667,R-DG R749,13,Baseline,0
+80719_site3_cluster181,laserOff,0.166666667,R-DG R749,13,Stimulus,2
+80719_site3_cluster181,laserOff,0.166666667,R-DG R749,14,Baseline,2
+80719_site3_cluster181,laserOff,0.166666667,R-DG R749,14,Stimulus,0
+80719_site3_cluster181,laserOff,0.166666667,R-DG R749,15,Baseline,2
+80719_site3_cluster181,laserOff,0.166666667,R-DG R749,15,Stimulus,4
+80719_site3_cluster181,laserOff,0.166666667,R-LG BK971,16,Baseline,2
+80719_site3_cluster181,laserOff,0.166666667,R-LG BK971,16,Stimulus,6
+80719_site3_cluster181,laserOff,0.166666667,R-LG BK971,17,Baseline,0
+80719_site3_cluster181,laserOff,0.166666667,R-LG BK971,17,Stimulus,4
+80719_site3_cluster181,laserOff,0.166666667,R-LG BK971,18,Baseline,2
+80719_site3_cluster181,laserOff,0.166666667,R-LG BK971,18,Stimulus,0
+80719_site3_cluster181,laserOff,0.166666667,R-LG BK971,19,Baseline,0
+80719_site3_cluster181,laserOff,0.166666667,R-LG BK971,19,Stimulus,0
+80719_site3_cluster181,laserOff,0.166666667,R-LG BK971,20,Baseline,2
+80719_site3_cluster181,laserOff,0.166666667,R-LG BK971,20,Stimulus,0
+80719_site3_cluster193,laserOff,0.266666667,M632,1,Baseline,2
+80719_site3_cluster193,laserOff,0.266666667,M632,1,Stimulus,4
+80719_site3_cluster193,laserOff,0.266666667,M632,2,Baseline,2
+80719_site3_cluster193,laserOff,0.266666667,M632,2,Stimulus,2
+80719_site3_cluster193,laserOff,0.266666667,M632,3,Baseline,8
+80719_site3_cluster193,laserOff,0.266666667,M632,3,Stimulus,10
+80719_site3_cluster193,laserOff,0.266666667,M632,4,Baseline,14
+80719_site3_cluster193,laserOff,0.266666667,M632,4,Stimulus,6
+80719_site3_cluster193,laserOff,0.266666667,M632,5,Baseline,4
+80719_site3_cluster193,laserOff,0.266666667,M632,5,Stimulus,2
+80719_site3_cluster193,laserOff,0.266666667,OR-WH LG159,6,Baseline,0
+80719_site3_cluster193,laserOff,0.266666667,OR-WH LG159,6,Stimulus,4
+80719_site3_cluster193,laserOff,0.266666667,OR-WH LG159,7,Baseline,0
+80719_site3_cluster193,laserOff,0.266666667,OR-WH LG159,7,Stimulus,4
+80719_site3_cluster193,laserOff,0.266666667,OR-WH LG159,8,Baseline,2
+80719_site3_cluster193,laserOff,0.266666667,OR-WH LG159,8,Stimulus,12
+80719_site3_cluster193,laserOff,0.266666667,OR-WH LG159,9,Baseline,2
+80719_site3_cluster193,laserOff,0.266666667,OR-WH LG159,9,Stimulus,4
+80719_site3_cluster193,laserOff,0.266666667,OR-WH LG159,10,Baseline,8
+80719_site3_cluster193,laserOff,0.266666667,OR-WH LG159,10,Stimulus,4
+80719_site3_cluster193,laserOff,0.266666667,R-DG R749,11,Baseline,6
+80719_site3_cluster193,laserOff,0.266666667,R-DG R749,11,Stimulus,10
+80719_site3_cluster193,laserOff,0.266666667,R-DG R749,12,Baseline,6
+80719_site3_cluster193,laserOff,0.266666667,R-DG R749,12,Stimulus,2
+80719_site3_cluster193,laserOff,0.266666667,R-DG R749,13,Baseline,4
+80719_site3_cluster193,laserOff,0.266666667,R-DG R749,13,Stimulus,4
+80719_site3_cluster193,laserOff,0.266666667,R-DG R749,14,Baseline,6
+80719_site3_cluster193,laserOff,0.266666667,R-DG R749,14,Stimulus,6
+80719_site3_cluster193,laserOff,0.266666667,R-DG R749,15,Baseline,0
+80719_site3_cluster193,laserOff,0.266666667,R-DG R749,15,Stimulus,4
+80719_site3_cluster193,laserOff,0.266666667,R-LG BK971,16,Baseline,12
+80719_site3_cluster193,laserOff,0.266666667,R-LG BK971,16,Stimulus,0
+80719_site3_cluster193,laserOff,0.266666667,R-LG BK971,17,Baseline,10
+80719_site3_cluster193,laserOff,0.266666667,R-LG BK971,17,Stimulus,0
+80719_site3_cluster193,laserOff,0.266666667,R-LG BK971,18,Baseline,6
+80719_site3_cluster193,laserOff,0.266666667,R-LG BK971,18,Stimulus,2
+80719_site3_cluster193,laserOff,0.266666667,R-LG BK971,19,Baseline,0
+80719_site3_cluster193,laserOff,0.266666667,R-LG BK971,19,Stimulus,4
+80719_site3_cluster193,laserOff,0.266666667,R-LG BK971,20,Baseline,6
+80719_site3_cluster193,laserOff,0.266666667,R-LG BK971,20,Stimulus,6
+80719_site3_cluster240,laserOff,0.433333333,M632,1,Baseline,4
+80719_site3_cluster240,laserOff,0.433333333,M632,1,Stimulus,8
+80719_site3_cluster240,laserOff,0.433333333,M632,2,Baseline,2
+80719_site3_cluster240,laserOff,0.433333333,M632,2,Stimulus,2
+80719_site3_cluster240,laserOff,0.433333333,M632,3,Baseline,2
+80719_site3_cluster240,laserOff,0.433333333,M632,3,Stimulus,2
+80719_site3_cluster240,laserOff,0.433333333,M632,4,Baseline,4
+80719_site3_cluster240,laserOff,0.433333333,M632,4,Stimulus,2
+80719_site3_cluster240,laserOff,0.433333333,M632,5,Baseline,8
+80719_site3_cluster240,laserOff,0.433333333,M632,5,Stimulus,4
+80719_site3_cluster240,laserOff,0.433333333,OR-WH LG159,6,Baseline,2
+80719_site3_cluster240,laserOff,0.433333333,OR-WH LG159,6,Stimulus,4
+80719_site3_cluster240,laserOff,0.433333333,OR-WH LG159,7,Baseline,0
+80719_site3_cluster240,laserOff,0.433333333,OR-WH LG159,7,Stimulus,8
+80719_site3_cluster240,laserOff,0.433333333,OR-WH LG159,8,Baseline,2
+80719_site3_cluster240,laserOff,0.433333333,OR-WH LG159,8,Stimulus,2
+80719_site3_cluster240,laserOff,0.433333333,OR-WH LG159,9,Baseline,6
+80719_site3_cluster240,laserOff,0.433333333,OR-WH LG159,9,Stimulus,4
+80719_site3_cluster240,laserOff,0.433333333,OR-WH LG159,10,Baseline,0
+80719_site3_cluster240,laserOff,0.433333333,OR-WH LG159,10,Stimulus,6
+80719_site3_cluster240,laserOff,0.433333333,R-DG R749,11,Baseline,2
+80719_site3_cluster240,laserOff,0.433333333,R-DG R749,11,Stimulus,8
+80719_site3_cluster240,laserOff,0.433333333,R-DG R749,12,Baseline,2
+80719_site3_cluster240,laserOff,0.433333333,R-DG R749,12,Stimulus,0
+80719_site3_cluster240,laserOff,0.433333333,R-DG R749,13,Baseline,8
+80719_site3_cluster240,laserOff,0.433333333,R-DG R749,13,Stimulus,2
+80719_site3_cluster240,laserOff,0.433333333,R-DG R749,14,Baseline,6
+80719_site3_cluster240,laserOff,0.433333333,R-DG R749,14,Stimulus,10
+80719_site3_cluster240,laserOff,0.433333333,R-DG R749,15,Baseline,0
+80719_site3_cluster240,laserOff,0.433333333,R-DG R749,15,Stimulus,12
+80719_site3_cluster240,laserOff,0.433333333,R-LG BK971,16,Baseline,4
+80719_site3_cluster240,laserOff,0.433333333,R-LG BK971,16,Stimulus,4
+80719_site3_cluster240,laserOff,0.433333333,R-LG BK971,17,Baseline,0
+80719_site3_cluster240,laserOff,0.433333333,R-LG BK971,17,Stimulus,10
+80719_site3_cluster240,laserOff,0.433333333,R-LG BK971,18,Baseline,2
+80719_site3_cluster240,laserOff,0.433333333,R-LG BK971,18,Stimulus,6
+80719_site3_cluster240,laserOff,0.433333333,R-LG BK971,19,Baseline,0
+80719_site3_cluster240,laserOff,0.433333333,R-LG BK971,19,Stimulus,4
+80719_site3_cluster240,laserOff,0.433333333,R-LG BK971,20,Baseline,4
+80719_site3_cluster240,laserOff,0.433333333,R-LG BK971,20,Stimulus,10
+80719_site3_cluster242,laserOff,0.4,M632,1,Baseline,0
+80719_site3_cluster242,laserOff,0.4,M632,1,Stimulus,4
+80719_site3_cluster242,laserOff,0.4,M632,2,Baseline,0
+80719_site3_cluster242,laserOff,0.4,M632,2,Stimulus,0
+80719_site3_cluster242,laserOff,0.4,M632,3,Baseline,0
+80719_site3_cluster242,laserOff,0.4,M632,3,Stimulus,2
+80719_site3_cluster242,laserOff,0.4,M632,4,Baseline,0
+80719_site3_cluster242,laserOff,0.4,M632,4,Stimulus,0
+80719_site3_cluster242,laserOff,0.4,M632,5,Baseline,2
+80719_site3_cluster242,laserOff,0.4,M632,5,Stimulus,4
+80719_site3_cluster242,laserOff,0.4,OR-WH LG159,6,Baseline,2
+80719_site3_cluster242,laserOff,0.4,OR-WH LG159,6,Stimulus,2
+80719_site3_cluster242,laserOff,0.4,OR-WH LG159,7,Baseline,0
+80719_site3_cluster242,laserOff,0.4,OR-WH LG159,7,Stimulus,2
+80719_site3_cluster242,laserOff,0.4,OR-WH LG159,8,Baseline,2
+80719_site3_cluster242,laserOff,0.4,OR-WH LG159,8,Stimulus,0
+80719_site3_cluster242,laserOff,0.4,OR-WH LG159,9,Baseline,0
+80719_site3_cluster242,laserOff,0.4,OR-WH LG159,9,Stimulus,0
+80719_site3_cluster242,laserOff,0.4,OR-WH LG159,10,Baseline,8
+80719_site3_cluster242,laserOff,0.4,OR-WH LG159,10,Stimulus,2
+80719_site3_cluster242,laserOff,0.4,R-DG R749,11,Baseline,2
+80719_site3_cluster242,laserOff,0.4,R-DG R749,11,Stimulus,0
+80719_site3_cluster242,laserOff,0.4,R-DG R749,12,Baseline,0
+80719_site3_cluster242,laserOff,0.4,R-DG R749,12,Stimulus,0
+80719_site3_cluster242,laserOff,0.4,R-DG R749,13,Baseline,0
+80719_site3_cluster242,laserOff,0.4,R-DG R749,13,Stimulus,0
+80719_site3_cluster242,laserOff,0.4,R-DG R749,14,Baseline,6
+80719_site3_cluster242,laserOff,0.4,R-DG R749,14,Stimulus,0
+80719_site3_cluster242,laserOff,0.4,R-DG R749,15,Baseline,0
+80719_site3_cluster242,laserOff,0.4,R-DG R749,15,Stimulus,4
+80719_site3_cluster242,laserOff,0.4,R-LG BK971,16,Baseline,0
+80719_site3_cluster242,laserOff,0.4,R-LG BK971,16,Stimulus,2
+80719_site3_cluster242,laserOff,0.4,R-LG BK971,17,Baseline,6
+80719_site3_cluster242,laserOff,0.4,R-LG BK971,17,Stimulus,0
+80719_site3_cluster242,laserOff,0.4,R-LG BK971,18,Baseline,0
+80719_site3_cluster242,laserOff,0.4,R-LG BK971,18,Stimulus,0
+80719_site3_cluster242,laserOff,0.4,R-LG BK971,19,Baseline,2
+80719_site3_cluster242,laserOff,0.4,R-LG BK971,19,Stimulus,2
+80719_site3_cluster242,laserOff,0.4,R-LG BK971,20,Baseline,0
+80719_site3_cluster242,laserOff,0.4,R-LG BK971,20,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,M632,1,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,M632,1,Stimulus,2
+80719_site3_cluster244,laserOff,0.166666667,M632,2,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,M632,2,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,M632,3,Baseline,2
+80719_site3_cluster244,laserOff,0.166666667,M632,3,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,M632,4,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,M632,4,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,M632,5,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,M632,5,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,OR-WH LG159,6,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,OR-WH LG159,6,Stimulus,2
+80719_site3_cluster244,laserOff,0.166666667,OR-WH LG159,7,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,OR-WH LG159,7,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,OR-WH LG159,8,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,OR-WH LG159,8,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,OR-WH LG159,9,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,OR-WH LG159,9,Stimulus,2
+80719_site3_cluster244,laserOff,0.166666667,OR-WH LG159,10,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,OR-WH LG159,10,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,R-DG R749,11,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,R-DG R749,11,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,R-DG R749,12,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,R-DG R749,12,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,R-DG R749,13,Baseline,2
+80719_site3_cluster244,laserOff,0.166666667,R-DG R749,13,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,R-DG R749,14,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,R-DG R749,14,Stimulus,2
+80719_site3_cluster244,laserOff,0.166666667,R-DG R749,15,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,R-DG R749,15,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,R-LG BK971,16,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,R-LG BK971,16,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,R-LG BK971,17,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,R-LG BK971,17,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,R-LG BK971,18,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,R-LG BK971,18,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,R-LG BK971,19,Baseline,2
+80719_site3_cluster244,laserOff,0.166666667,R-LG BK971,19,Stimulus,0
+80719_site3_cluster244,laserOff,0.166666667,R-LG BK971,20,Baseline,0
+80719_site3_cluster244,laserOff,0.166666667,R-LG BK971,20,Stimulus,0
+80719_site3_cluster251,laserOff,0.233333333,M632,1,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,M632,1,Stimulus,0
+80719_site3_cluster251,laserOff,0.233333333,M632,2,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,M632,2,Stimulus,6
+80719_site3_cluster251,laserOff,0.233333333,M632,3,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,M632,3,Stimulus,2
+80719_site3_cluster251,laserOff,0.233333333,M632,4,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,M632,4,Stimulus,2
+80719_site3_cluster251,laserOff,0.233333333,M632,5,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,M632,5,Stimulus,2
+80719_site3_cluster251,laserOff,0.233333333,OR-WH LG159,6,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,OR-WH LG159,6,Stimulus,4
+80719_site3_cluster251,laserOff,0.233333333,OR-WH LG159,7,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,OR-WH LG159,7,Stimulus,0
+80719_site3_cluster251,laserOff,0.233333333,OR-WH LG159,8,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,OR-WH LG159,8,Stimulus,0
+80719_site3_cluster251,laserOff,0.233333333,OR-WH LG159,9,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,OR-WH LG159,9,Stimulus,4
+80719_site3_cluster251,laserOff,0.233333333,OR-WH LG159,10,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,OR-WH LG159,10,Stimulus,0
+80719_site3_cluster251,laserOff,0.233333333,R-DG R749,11,Baseline,2
+80719_site3_cluster251,laserOff,0.233333333,R-DG R749,11,Stimulus,2
+80719_site3_cluster251,laserOff,0.233333333,R-DG R749,12,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,R-DG R749,12,Stimulus,0
+80719_site3_cluster251,laserOff,0.233333333,R-DG R749,13,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,R-DG R749,13,Stimulus,4
+80719_site3_cluster251,laserOff,0.233333333,R-DG R749,14,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,R-DG R749,14,Stimulus,0
+80719_site3_cluster251,laserOff,0.233333333,R-DG R749,15,Baseline,2
+80719_site3_cluster251,laserOff,0.233333333,R-DG R749,15,Stimulus,8
+80719_site3_cluster251,laserOff,0.233333333,R-LG BK971,16,Baseline,2
+80719_site3_cluster251,laserOff,0.233333333,R-LG BK971,16,Stimulus,2
+80719_site3_cluster251,laserOff,0.233333333,R-LG BK971,17,Baseline,4
+80719_site3_cluster251,laserOff,0.233333333,R-LG BK971,17,Stimulus,2
+80719_site3_cluster251,laserOff,0.233333333,R-LG BK971,18,Baseline,2
+80719_site3_cluster251,laserOff,0.233333333,R-LG BK971,18,Stimulus,2
+80719_site3_cluster251,laserOff,0.233333333,R-LG BK971,19,Baseline,0
+80719_site3_cluster251,laserOff,0.233333333,R-LG BK971,19,Stimulus,2
+80719_site3_cluster251,laserOff,0.233333333,R-LG BK971,20,Baseline,6
+80719_site3_cluster251,laserOff,0.233333333,R-LG BK971,20,Stimulus,4
+80719_site3_cluster313,laserOff,0.2,M632,1,Baseline,4
+80719_site3_cluster313,laserOff,0.2,M632,1,Stimulus,0
+80719_site3_cluster313,laserOff,0.2,M632,2,Baseline,0
+80719_site3_cluster313,laserOff,0.2,M632,2,Stimulus,4
+80719_site3_cluster313,laserOff,0.2,M632,3,Baseline,2
+80719_site3_cluster313,laserOff,0.2,M632,3,Stimulus,8
+80719_site3_cluster313,laserOff,0.2,M632,4,Baseline,2
+80719_site3_cluster313,laserOff,0.2,M632,4,Stimulus,4
+80719_site3_cluster313,laserOff,0.2,M632,5,Baseline,0
+80719_site3_cluster313,laserOff,0.2,M632,5,Stimulus,4
+80719_site3_cluster313,laserOff,0.2,OR-WH LG159,6,Baseline,2
+80719_site3_cluster313,laserOff,0.2,OR-WH LG159,6,Stimulus,12
+80719_site3_cluster313,laserOff,0.2,OR-WH LG159,7,Baseline,0
+80719_site3_cluster313,laserOff,0.2,OR-WH LG159,7,Stimulus,2
+80719_site3_cluster313,laserOff,0.2,OR-WH LG159,8,Baseline,2
+80719_site3_cluster313,laserOff,0.2,OR-WH LG159,8,Stimulus,0
+80719_site3_cluster313,laserOff,0.2,OR-WH LG159,9,Baseline,0
+80719_site3_cluster313,laserOff,0.2,OR-WH LG159,9,Stimulus,4
+80719_site3_cluster313,laserOff,0.2,OR-WH LG159,10,Baseline,2
+80719_site3_cluster313,laserOff,0.2,OR-WH LG159,10,Stimulus,2
+80719_site3_cluster313,laserOff,0.2,R-DG R749,11,Baseline,4
+80719_site3_cluster313,laserOff,0.2,R-DG R749,11,Stimulus,6
+80719_site3_cluster313,laserOff,0.2,R-DG R749,12,Baseline,4
+80719_site3_cluster313,laserOff,0.2,R-DG R749,12,Stimulus,4
+80719_site3_cluster313,laserOff,0.2,R-DG R749,13,Baseline,2
+80719_site3_cluster313,laserOff,0.2,R-DG R749,13,Stimulus,8
+80719_site3_cluster313,laserOff,0.2,R-DG R749,14,Baseline,2
+80719_site3_cluster313,laserOff,0.2,R-DG R749,14,Stimulus,6
+80719_site3_cluster313,laserOff,0.2,R-DG R749,15,Baseline,0
+80719_site3_cluster313,laserOff,0.2,R-DG R749,15,Stimulus,4
+80719_site3_cluster313,laserOff,0.2,R-LG BK971,16,Baseline,2
+80719_site3_cluster313,laserOff,0.2,R-LG BK971,16,Stimulus,10
+80719_site3_cluster313,laserOff,0.2,R-LG BK971,17,Baseline,6
+80719_site3_cluster313,laserOff,0.2,R-LG BK971,17,Stimulus,6
+80719_site3_cluster313,laserOff,0.2,R-LG BK971,18,Baseline,2
+80719_site3_cluster313,laserOff,0.2,R-LG BK971,18,Stimulus,2
+80719_site3_cluster313,laserOff,0.2,R-LG BK971,19,Baseline,4
+80719_site3_cluster313,laserOff,0.2,R-LG BK971,19,Stimulus,2
+80719_site3_cluster313,laserOff,0.2,R-LG BK971,20,Baseline,4
+80719_site3_cluster313,laserOff,0.2,R-LG BK971,20,Stimulus,0
+80719_site3_cluster75,laserOff,0.2,M632,1,Baseline,2
+80719_site3_cluster75,laserOff,0.2,M632,1,Stimulus,12
+80719_site3_cluster75,laserOff,0.2,M632,2,Baseline,6
+80719_site3_cluster75,laserOff,0.2,M632,2,Stimulus,0
+80719_site3_cluster75,laserOff,0.2,M632,3,Baseline,4
+80719_site3_cluster75,laserOff,0.2,M632,3,Stimulus,10
+80719_site3_cluster75,laserOff,0.2,M632,4,Baseline,0
+80719_site3_cluster75,laserOff,0.2,M632,4,Stimulus,0
+80719_site3_cluster75,laserOff,0.2,M632,5,Baseline,2
+80719_site3_cluster75,laserOff,0.2,M632,5,Stimulus,6
+80719_site3_cluster75,laserOff,0.2,OR-WH LG159,6,Baseline,0
+80719_site3_cluster75,laserOff,0.2,OR-WH LG159,6,Stimulus,4
+80719_site3_cluster75,laserOff,0.2,OR-WH LG159,7,Baseline,4
+80719_site3_cluster75,laserOff,0.2,OR-WH LG159,7,Stimulus,2
+80719_site3_cluster75,laserOff,0.2,OR-WH LG159,8,Baseline,2
+80719_site3_cluster75,laserOff,0.2,OR-WH LG159,8,Stimulus,4
+80719_site3_cluster75,laserOff,0.2,OR-WH LG159,9,Baseline,0
+80719_site3_cluster75,laserOff,0.2,OR-WH LG159,9,Stimulus,2
+80719_site3_cluster75,laserOff,0.2,OR-WH LG159,10,Baseline,0
+80719_site3_cluster75,laserOff,0.2,OR-WH LG159,10,Stimulus,0
+80719_site3_cluster75,laserOff,0.2,R-DG R749,11,Baseline,2
+80719_site3_cluster75,laserOff,0.2,R-DG R749,11,Stimulus,8
+80719_site3_cluster75,laserOff,0.2,R-DG R749,12,Baseline,0
+80719_site3_cluster75,laserOff,0.2,R-DG R749,12,Stimulus,6
+80719_site3_cluster75,laserOff,0.2,R-DG R749,13,Baseline,0
+80719_site3_cluster75,laserOff,0.2,R-DG R749,13,Stimulus,4
+80719_site3_cluster75,laserOff,0.2,R-DG R749,14,Baseline,0
+80719_site3_cluster75,laserOff,0.2,R-DG R749,14,Stimulus,2
+80719_site3_cluster75,laserOff,0.2,R-DG R749,15,Baseline,0
+80719_site3_cluster75,laserOff,0.2,R-DG R749,15,Stimulus,4
+80719_site3_cluster75,laserOff,0.2,R-LG BK971,16,Baseline,2
+80719_site3_cluster75,laserOff,0.2,R-LG BK971,16,Stimulus,10
+80719_site3_cluster75,laserOff,0.2,R-LG BK971,17,Baseline,0
+80719_site3_cluster75,laserOff,0.2,R-LG BK971,17,Stimulus,0
+80719_site3_cluster75,laserOff,0.2,R-LG BK971,18,Baseline,4
+80719_site3_cluster75,laserOff,0.2,R-LG BK971,18,Stimulus,12
+80719_site3_cluster75,laserOff,0.2,R-LG BK971,19,Baseline,4
+80719_site3_cluster75,laserOff,0.2,R-LG BK971,19,Stimulus,2
+80719_site3_cluster75,laserOff,0.2,R-LG BK971,20,Baseline,4
+80719_site3_cluster75,laserOff,0.2,R-LG BK971,20,Stimulus,4
+80719_site3_cluster181,laserOn,0.166666667,M632,1,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,M632,1,Stimulus,2
+80719_site3_cluster181,laserOn,0.166666667,M632,2,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,M632,2,Stimulus,0
+80719_site3_cluster181,laserOn,0.166666667,M632,3,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,M632,3,Stimulus,0
+80719_site3_cluster181,laserOn,0.166666667,M632,4,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,M632,4,Stimulus,4
+80719_site3_cluster181,laserOn,0.166666667,M632,5,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,M632,5,Stimulus,2
+80719_site3_cluster181,laserOn,0.166666667,OR-WH LG159,6,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,OR-WH LG159,6,Stimulus,0
+80719_site3_cluster181,laserOn,0.166666667,OR-WH LG159,7,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,OR-WH LG159,7,Stimulus,0
+80719_site3_cluster181,laserOn,0.166666667,OR-WH LG159,8,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,OR-WH LG159,8,Stimulus,0
+80719_site3_cluster181,laserOn,0.166666667,OR-WH LG159,9,Baseline,4
+80719_site3_cluster181,laserOn,0.166666667,OR-WH LG159,9,Stimulus,2
+80719_site3_cluster181,laserOn,0.166666667,OR-WH LG159,10,Baseline,6
+80719_site3_cluster181,laserOn,0.166666667,OR-WH LG159,10,Stimulus,2
+80719_site3_cluster181,laserOn,0.166666667,R-DG R749,11,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,R-DG R749,11,Stimulus,0
+80719_site3_cluster181,laserOn,0.166666667,R-DG R749,12,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,R-DG R749,12,Stimulus,4
+80719_site3_cluster181,laserOn,0.166666667,R-DG R749,13,Baseline,2
+80719_site3_cluster181,laserOn,0.166666667,R-DG R749,13,Stimulus,2
+80719_site3_cluster181,laserOn,0.166666667,R-DG R749,14,Baseline,2
+80719_site3_cluster181,laserOn,0.166666667,R-DG R749,14,Stimulus,2
+80719_site3_cluster181,laserOn,0.166666667,R-DG R749,15,Baseline,2
+80719_site3_cluster181,laserOn,0.166666667,R-DG R749,15,Stimulus,0
+80719_site3_cluster181,laserOn,0.166666667,R-LG BK971,16,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,R-LG BK971,16,Stimulus,2
+80719_site3_cluster181,laserOn,0.166666667,R-LG BK971,17,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,R-LG BK971,17,Stimulus,0
+80719_site3_cluster181,laserOn,0.166666667,R-LG BK971,18,Baseline,0
+80719_site3_cluster181,laserOn,0.166666667,R-LG BK971,18,Stimulus,0
+80719_site3_cluster181,laserOn,0.166666667,R-LG BK971,19,Baseline,2
+80719_site3_cluster181,laserOn,0.166666667,R-LG BK971,19,Stimulus,2
+80719_site3_cluster181,laserOn,0.166666667,R-LG BK971,20,Baseline,2
+80719_site3_cluster181,laserOn,0.166666667,R-LG BK971,20,Stimulus,4
+80719_site3_cluster193,laserOn,0.266666667,M632,1,Baseline,2
+80719_site3_cluster193,laserOn,0.266666667,M632,1,Stimulus,6
+80719_site3_cluster193,laserOn,0.266666667,M632,2,Baseline,2
+80719_site3_cluster193,laserOn,0.266666667,M632,2,Stimulus,2
+80719_site3_cluster193,laserOn,0.266666667,M632,3,Baseline,2
+80719_site3_cluster193,laserOn,0.266666667,M632,3,Stimulus,6
+80719_site3_cluster193,laserOn,0.266666667,M632,4,Baseline,4
+80719_site3_cluster193,laserOn,0.266666667,M632,4,Stimulus,2
+80719_site3_cluster193,laserOn,0.266666667,M632,5,Baseline,0
+80719_site3_cluster193,laserOn,0.266666667,M632,5,Stimulus,6
+80719_site3_cluster193,laserOn,0.266666667,OR-WH LG159,6,Baseline,4
+80719_site3_cluster193,laserOn,0.266666667,OR-WH LG159,6,Stimulus,2
+80719_site3_cluster193,laserOn,0.266666667,OR-WH LG159,7,Baseline,2
+80719_site3_cluster193,laserOn,0.266666667,OR-WH LG159,7,Stimulus,4
+80719_site3_cluster193,laserOn,0.266666667,OR-WH LG159,8,Baseline,4
+80719_site3_cluster193,laserOn,0.266666667,OR-WH LG159,8,Stimulus,8
+80719_site3_cluster193,laserOn,0.266666667,OR-WH LG159,9,Baseline,8
+80719_site3_cluster193,laserOn,0.266666667,OR-WH LG159,9,Stimulus,2
+80719_site3_cluster193,laserOn,0.266666667,OR-WH LG159,10,Baseline,4
+80719_site3_cluster193,laserOn,0.266666667,OR-WH LG159,10,Stimulus,2
+80719_site3_cluster193,laserOn,0.266666667,R-DG R749,11,Baseline,6
+80719_site3_cluster193,laserOn,0.266666667,R-DG R749,11,Stimulus,6
+80719_site3_cluster193,laserOn,0.266666667,R-DG R749,12,Baseline,2
+80719_site3_cluster193,laserOn,0.266666667,R-DG R749,12,Stimulus,8
+80719_site3_cluster193,laserOn,0.266666667,R-DG R749,13,Baseline,6
+80719_site3_cluster193,laserOn,0.266666667,R-DG R749,13,Stimulus,2
+80719_site3_cluster193,laserOn,0.266666667,R-DG R749,14,Baseline,0
+80719_site3_cluster193,laserOn,0.266666667,R-DG R749,14,Stimulus,0
+80719_site3_cluster193,laserOn,0.266666667,R-DG R749,15,Baseline,2
+80719_site3_cluster193,laserOn,0.266666667,R-DG R749,15,Stimulus,4
+80719_site3_cluster193,laserOn,0.266666667,R-LG BK971,16,Baseline,10
+80719_site3_cluster193,laserOn,0.266666667,R-LG BK971,16,Stimulus,4
+80719_site3_cluster193,laserOn,0.266666667,R-LG BK971,17,Baseline,0
+80719_site3_cluster193,laserOn,0.266666667,R-LG BK971,17,Stimulus,0
+80719_site3_cluster193,laserOn,0.266666667,R-LG BK971,18,Baseline,4
+80719_site3_cluster193,laserOn,0.266666667,R-LG BK971,18,Stimulus,2
+80719_site3_cluster193,laserOn,0.266666667,R-LG BK971,19,Baseline,2
+80719_site3_cluster193,laserOn,0.266666667,R-LG BK971,19,Stimulus,0
+80719_site3_cluster193,laserOn,0.266666667,R-LG BK971,20,Baseline,4
+80719_site3_cluster193,laserOn,0.266666667,R-LG BK971,20,Stimulus,4
+80719_site3_cluster240,laserOn,0.433333333,M632,1,Baseline,8
+80719_site3_cluster240,laserOn,0.433333333,M632,1,Stimulus,10
+80719_site3_cluster240,laserOn,0.433333333,M632,2,Baseline,6
+80719_site3_cluster240,laserOn,0.433333333,M632,2,Stimulus,2
+80719_site3_cluster240,laserOn,0.433333333,M632,3,Baseline,0
+80719_site3_cluster240,laserOn,0.433333333,M632,3,Stimulus,12
+80719_site3_cluster240,laserOn,0.433333333,M632,4,Baseline,2
+80719_site3_cluster240,laserOn,0.433333333,M632,4,Stimulus,14
+80719_site3_cluster240,laserOn,0.433333333,M632,5,Baseline,2
+80719_site3_cluster240,laserOn,0.433333333,M632,5,Stimulus,8
+80719_site3_cluster240,laserOn,0.433333333,OR-WH LG159,6,Baseline,8
+80719_site3_cluster240,laserOn,0.433333333,OR-WH LG159,6,Stimulus,4
+80719_site3_cluster240,laserOn,0.433333333,OR-WH LG159,7,Baseline,4
+80719_site3_cluster240,laserOn,0.433333333,OR-WH LG159,7,Stimulus,0
+80719_site3_cluster240,laserOn,0.433333333,OR-WH LG159,8,Baseline,4
+80719_site3_cluster240,laserOn,0.433333333,OR-WH LG159,8,Stimulus,2
+80719_site3_cluster240,laserOn,0.433333333,OR-WH LG159,9,Baseline,6
+80719_site3_cluster240,laserOn,0.433333333,OR-WH LG159,9,Stimulus,8
+80719_site3_cluster240,laserOn,0.433333333,OR-WH LG159,10,Baseline,0
+80719_site3_cluster240,laserOn,0.433333333,OR-WH LG159,10,Stimulus,0
+80719_site3_cluster240,laserOn,0.433333333,R-DG R749,11,Baseline,2
+80719_site3_cluster240,laserOn,0.433333333,R-DG R749,11,Stimulus,6
+80719_site3_cluster240,laserOn,0.433333333,R-DG R749,12,Baseline,0
+80719_site3_cluster240,laserOn,0.433333333,R-DG R749,12,Stimulus,0
+80719_site3_cluster240,laserOn,0.433333333,R-DG R749,13,Baseline,0
+80719_site3_cluster240,laserOn,0.433333333,R-DG R749,13,Stimulus,10
+80719_site3_cluster240,laserOn,0.433333333,R-DG R749,14,Baseline,6
+80719_site3_cluster240,laserOn,0.433333333,R-DG R749,14,Stimulus,0
+80719_site3_cluster240,laserOn,0.433333333,R-DG R749,15,Baseline,6
+80719_site3_cluster240,laserOn,0.433333333,R-DG R749,15,Stimulus,0
+80719_site3_cluster240,laserOn,0.433333333,R-LG BK971,16,Baseline,0
+80719_site3_cluster240,laserOn,0.433333333,R-LG BK971,16,Stimulus,0
+80719_site3_cluster240,laserOn,0.433333333,R-LG BK971,17,Baseline,10
+80719_site3_cluster240,laserOn,0.433333333,R-LG BK971,17,Stimulus,2
+80719_site3_cluster240,laserOn,0.433333333,R-LG BK971,18,Baseline,2
+80719_site3_cluster240,laserOn,0.433333333,R-LG BK971,18,Stimulus,6
+80719_site3_cluster240,laserOn,0.433333333,R-LG BK971,19,Baseline,6
+80719_site3_cluster240,laserOn,0.433333333,R-LG BK971,19,Stimulus,2
+80719_site3_cluster240,laserOn,0.433333333,R-LG BK971,20,Baseline,0
+80719_site3_cluster240,laserOn,0.433333333,R-LG BK971,20,Stimulus,4
+80719_site3_cluster242,laserOn,0.4,M632,1,Baseline,2
+80719_site3_cluster242,laserOn,0.4,M632,1,Stimulus,0
+80719_site3_cluster242,laserOn,0.4,M632,2,Baseline,2
+80719_site3_cluster242,laserOn,0.4,M632,2,Stimulus,2
+80719_site3_cluster242,laserOn,0.4,M632,3,Baseline,2
+80719_site3_cluster242,laserOn,0.4,M632,3,Stimulus,0
+80719_site3_cluster242,laserOn,0.4,M632,4,Baseline,2
+80719_site3_cluster242,laserOn,0.4,M632,4,Stimulus,0
+80719_site3_cluster242,laserOn,0.4,M632,5,Baseline,0
+80719_site3_cluster242,laserOn,0.4,M632,5,Stimulus,2
+80719_site3_cluster242,laserOn,0.4,OR-WH LG159,6,Baseline,4
+80719_site3_cluster242,laserOn,0.4,OR-WH LG159,6,Stimulus,2
+80719_site3_cluster242,laserOn,0.4,OR-WH LG159,7,Baseline,0
+80719_site3_cluster242,laserOn,0.4,OR-WH LG159,7,Stimulus,0
+80719_site3_cluster242,laserOn,0.4,OR-WH LG159,8,Baseline,2
+80719_site3_cluster242,laserOn,0.4,OR-WH LG159,8,Stimulus,0
+80719_site3_cluster242,laserOn,0.4,OR-WH LG159,9,Baseline,0
+80719_site3_cluster242,laserOn,0.4,OR-WH LG159,9,Stimulus,0
+80719_site3_cluster242,laserOn,0.4,OR-WH LG159,10,Baseline,2
+80719_site3_cluster242,laserOn,0.4,OR-WH LG159,10,Stimulus,0
+80719_site3_cluster242,laserOn,0.4,R-DG R749,11,Baseline,0
+80719_site3_cluster242,laserOn,0.4,R-DG R749,11,Stimulus,2
+80719_site3_cluster242,laserOn,0.4,R-DG R749,12,Baseline,2
+80719_site3_cluster242,laserOn,0.4,R-DG R749,12,Stimulus,0
+80719_site3_cluster242,laserOn,0.4,R-DG R749,13,Baseline,8
+80719_site3_cluster242,laserOn,0.4,R-DG R749,13,Stimulus,2
+80719_site3_cluster242,laserOn,0.4,R-DG R749,14,Baseline,2
+80719_site3_cluster242,laserOn,0.4,R-DG R749,14,Stimulus,2
+80719_site3_cluster242,laserOn,0.4,R-DG R749,15,Baseline,2
+80719_site3_cluster242,laserOn,0.4,R-DG R749,15,Stimulus,2
+80719_site3_cluster242,laserOn,0.4,R-LG BK971,16,Baseline,0
+80719_site3_cluster242,laserOn,0.4,R-LG BK971,16,Stimulus,0
+80719_site3_cluster242,laserOn,0.4,R-LG BK971,17,Baseline,0
+80719_site3_cluster242,laserOn,0.4,R-LG BK971,17,Stimulus,2
+80719_site3_cluster242,laserOn,0.4,R-LG BK971,18,Baseline,0
+80719_site3_cluster242,laserOn,0.4,R-LG BK971,18,Stimulus,0
+80719_site3_cluster242,laserOn,0.4,R-LG BK971,19,Baseline,2
+80719_site3_cluster242,laserOn,0.4,R-LG BK971,19,Stimulus,2
+80719_site3_cluster242,laserOn,0.4,R-LG BK971,20,Baseline,2
+80719_site3_cluster242,laserOn,0.4,R-LG BK971,20,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,M632,1,Baseline,2
+80719_site3_cluster244,laserOn,0.166666667,M632,1,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,M632,2,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,M632,2,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,M632,3,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,M632,3,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,M632,4,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,M632,4,Stimulus,2
+80719_site3_cluster244,laserOn,0.166666667,M632,5,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,M632,5,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,OR-WH LG159,6,Baseline,2
+80719_site3_cluster244,laserOn,0.166666667,OR-WH LG159,6,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,OR-WH LG159,7,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,OR-WH LG159,7,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,OR-WH LG159,8,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,OR-WH LG159,8,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,OR-WH LG159,9,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,OR-WH LG159,9,Stimulus,2
+80719_site3_cluster244,laserOn,0.166666667,OR-WH LG159,10,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,OR-WH LG159,10,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,R-DG R749,11,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,R-DG R749,11,Stimulus,2
+80719_site3_cluster244,laserOn,0.166666667,R-DG R749,12,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,R-DG R749,12,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,R-DG R749,13,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,R-DG R749,13,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,R-DG R749,14,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,R-DG R749,14,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,R-DG R749,15,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,R-DG R749,15,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,R-LG BK971,16,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,R-LG BK971,16,Stimulus,2
+80719_site3_cluster244,laserOn,0.166666667,R-LG BK971,17,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,R-LG BK971,17,Stimulus,2
+80719_site3_cluster244,laserOn,0.166666667,R-LG BK971,18,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,R-LG BK971,18,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,R-LG BK971,19,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,R-LG BK971,19,Stimulus,0
+80719_site3_cluster244,laserOn,0.166666667,R-LG BK971,20,Baseline,0
+80719_site3_cluster244,laserOn,0.166666667,R-LG BK971,20,Stimulus,0
+80719_site3_cluster251,laserOn,0.233333333,M632,1,Baseline,0
+80719_site3_cluster251,laserOn,0.233333333,M632,1,Stimulus,2
+80719_site3_cluster251,laserOn,0.233333333,M632,2,Baseline,0
+80719_site3_cluster251,laserOn,0.233333333,M632,2,Stimulus,2
+80719_site3_cluster251,laserOn,0.233333333,M632,3,Baseline,2
+80719_site3_cluster251,laserOn,0.233333333,M632,3,Stimulus,0
+80719_site3_cluster251,laserOn,0.233333333,M632,4,Baseline,2
+80719_site3_cluster251,laserOn,0.233333333,M632,4,Stimulus,2
+80719_site3_cluster251,laserOn,0.233333333,M632,5,Baseline,0
+80719_site3_cluster251,laserOn,0.233333333,M632,5,Stimulus,2
+80719_site3_cluster251,laserOn,0.233333333,OR-WH LG159,6,Baseline,2
+80719_site3_cluster251,laserOn,0.233333333,OR-WH LG159,6,Stimulus,0
+80719_site3_cluster251,laserOn,0.233333333,OR-WH LG159,7,Baseline,0
+80719_site3_cluster251,laserOn,0.233333333,OR-WH LG159,7,Stimulus,0
+80719_site3_cluster251,laserOn,0.233333333,OR-WH LG159,8,Baseline,0
+80719_site3_cluster251,laserOn,0.233333333,OR-WH LG159,8,Stimulus,2
+80719_site3_cluster251,laserOn,0.233333333,OR-WH LG159,9,Baseline,4
+80719_site3_cluster251,laserOn,0.233333333,OR-WH LG159,9,Stimulus,2
+80719_site3_cluster251,laserOn,0.233333333,OR-WH LG159,10,Baseline,6
+80719_site3_cluster251,laserOn,0.233333333,OR-WH LG159,10,Stimulus,2
+80719_site3_cluster251,laserOn,0.233333333,R-DG R749,11,Baseline,0
+80719_site3_cluster251,laserOn,0.233333333,R-DG R749,11,Stimulus,4
+80719_site3_cluster251,laserOn,0.233333333,R-DG R749,12,Baseline,0
+80719_site3_cluster251,laserOn,0.233333333,R-DG R749,12,Stimulus,0
+80719_site3_cluster251,laserOn,0.233333333,R-DG R749,13,Baseline,0
+80719_site3_cluster251,laserOn,0.233333333,R-DG R749,13,Stimulus,0
+80719_site3_cluster251,laserOn,0.233333333,R-DG R749,14,Baseline,2
+80719_site3_cluster251,laserOn,0.233333333,R-DG R749,14,Stimulus,2
+80719_site3_cluster251,laserOn,0.233333333,R-DG R749,15,Baseline,0
+80719_site3_cluster251,laserOn,0.233333333,R-DG R749,15,Stimulus,2
+80719_site3_cluster251,laserOn,0.233333333,R-LG BK971,16,Baseline,0
+80719_site3_cluster251,laserOn,0.233333333,R-LG BK971,16,Stimulus,0
+80719_site3_cluster251,laserOn,0.233333333,R-LG BK971,17,Baseline,2
+80719_site3_cluster251,laserOn,0.233333333,R-LG BK971,17,Stimulus,0
+80719_site3_cluster251,laserOn,0.233333333,R-LG BK971,18,Baseline,0
+80719_site3_cluster251,laserOn,0.233333333,R-LG BK971,18,Stimulus,0
+80719_site3_cluster251,laserOn,0.233333333,R-LG BK971,19,Baseline,4
+80719_site3_cluster251,laserOn,0.233333333,R-LG BK971,19,Stimulus,2
+80719_site3_cluster251,laserOn,0.233333333,R-LG BK971,20,Baseline,2
+80719_site3_cluster251,laserOn,0.233333333,R-LG BK971,20,Stimulus,0
+80719_site3_cluster313,laserOn,0.2,M632,1,Baseline,0
+80719_site3_cluster313,laserOn,0.2,M632,1,Stimulus,0
+80719_site3_cluster313,laserOn,0.2,M632,2,Baseline,2
+80719_site3_cluster313,laserOn,0.2,M632,2,Stimulus,8
+80719_site3_cluster313,laserOn,0.2,M632,3,Baseline,2
+80719_site3_cluster313,laserOn,0.2,M632,3,Stimulus,6
+80719_site3_cluster313,laserOn,0.2,M632,4,Baseline,2
+80719_site3_cluster313,laserOn,0.2,M632,4,Stimulus,10
+80719_site3_cluster313,laserOn,0.2,M632,5,Baseline,0
+80719_site3_cluster313,laserOn,0.2,M632,5,Stimulus,2
+80719_site3_cluster313,laserOn,0.2,OR-WH LG159,6,Baseline,2
+80719_site3_cluster313,laserOn,0.2,OR-WH LG159,6,Stimulus,8
+80719_site3_cluster313,laserOn,0.2,OR-WH LG159,7,Baseline,0
+80719_site3_cluster313,laserOn,0.2,OR-WH LG159,7,Stimulus,2
+80719_site3_cluster313,laserOn,0.2,OR-WH LG159,8,Baseline,4
+80719_site3_cluster313,laserOn,0.2,OR-WH LG159,8,Stimulus,10
+80719_site3_cluster313,laserOn,0.2,OR-WH LG159,9,Baseline,0
+80719_site3_cluster313,laserOn,0.2,OR-WH LG159,9,Stimulus,2
+80719_site3_cluster313,laserOn,0.2,OR-WH LG159,10,Baseline,6
+80719_site3_cluster313,laserOn,0.2,OR-WH LG159,10,Stimulus,0
+80719_site3_cluster313,laserOn,0.2,R-DG R749,11,Baseline,0
+80719_site3_cluster313,laserOn,0.2,R-DG R749,11,Stimulus,2
+80719_site3_cluster313,laserOn,0.2,R-DG R749,12,Baseline,0
+80719_site3_cluster313,laserOn,0.2,R-DG R749,12,Stimulus,4
+80719_site3_cluster313,laserOn,0.2,R-DG R749,13,Baseline,4
+80719_site3_cluster313,laserOn,0.2,R-DG R749,13,Stimulus,2
+80719_site3_cluster313,laserOn,0.2,R-DG R749,14,Baseline,2
+80719_site3_cluster313,laserOn,0.2,R-DG R749,14,Stimulus,4
+80719_site3_cluster313,laserOn,0.2,R-DG R749,15,Baseline,2
+80719_site3_cluster313,laserOn,0.2,R-DG R749,15,Stimulus,2
+80719_site3_cluster313,laserOn,0.2,R-LG BK971,16,Baseline,0
+80719_site3_cluster313,laserOn,0.2,R-LG BK971,16,Stimulus,4
+80719_site3_cluster313,laserOn,0.2,R-LG BK971,17,Baseline,4
+80719_site3_cluster313,laserOn,0.2,R-LG BK971,17,Stimulus,8
+80719_site3_cluster313,laserOn,0.2,R-LG BK971,18,Baseline,4
+80719_site3_cluster313,laserOn,0.2,R-LG BK971,18,Stimulus,2
+80719_site3_cluster313,laserOn,0.2,R-LG BK971,19,Baseline,0
+80719_site3_cluster313,laserOn,0.2,R-LG BK971,19,Stimulus,2
+80719_site3_cluster313,laserOn,0.2,R-LG BK971,20,Baseline,2
+80719_site3_cluster313,laserOn,0.2,R-LG BK971,20,Stimulus,8
+80719_site3_cluster75,laserOn,0.2,M632,1,Baseline,2
+80719_site3_cluster75,laserOn,0.2,M632,1,Stimulus,4
+80719_site3_cluster75,laserOn,0.2,M632,2,Baseline,4
+80719_site3_cluster75,laserOn,0.2,M632,2,Stimulus,4
+80719_site3_cluster75,laserOn,0.2,M632,3,Baseline,2
+80719_site3_cluster75,laserOn,0.2,M632,3,Stimulus,0
+80719_site3_cluster75,laserOn,0.2,M632,4,Baseline,2
+80719_site3_cluster75,laserOn,0.2,M632,4,Stimulus,0
+80719_site3_cluster75,laserOn,0.2,M632,5,Baseline,0
+80719_site3_cluster75,laserOn,0.2,M632,5,Stimulus,2
+80719_site3_cluster75,laserOn,0.2,OR-WH LG159,6,Baseline,0
+80719_site3_cluster75,laserOn,0.2,OR-WH LG159,6,Stimulus,2
+80719_site3_cluster75,laserOn,0.2,OR-WH LG159,7,Baseline,4
+80719_site3_cluster75,laserOn,0.2,OR-WH LG159,7,Stimulus,6
+80719_site3_cluster75,laserOn,0.2,OR-WH LG159,8,Baseline,0
+80719_site3_cluster75,laserOn,0.2,OR-WH LG159,8,Stimulus,6
+80719_site3_cluster75,laserOn,0.2,OR-WH LG159,9,Baseline,4
+80719_site3_cluster75,laserOn,0.2,OR-WH LG159,9,Stimulus,4
+80719_site3_cluster75,laserOn,0.2,OR-WH LG159,10,Baseline,4
+80719_site3_cluster75,laserOn,0.2,OR-WH LG159,10,Stimulus,0
+80719_site3_cluster75,laserOn,0.2,R-DG R749,11,Baseline,4
+80719_site3_cluster75,laserOn,0.2,R-DG R749,11,Stimulus,2
+80719_site3_cluster75,laserOn,0.2,R-DG R749,12,Baseline,0
+80719_site3_cluster75,laserOn,0.2,R-DG R749,12,Stimulus,2
+80719_site3_cluster75,laserOn,0.2,R-DG R749,13,Baseline,0
+80719_site3_cluster75,laserOn,0.2,R-DG R749,13,Stimulus,2
+80719_site3_cluster75,laserOn,0.2,R-DG R749,14,Baseline,0
+80719_site3_cluster75,laserOn,0.2,R-DG R749,14,Stimulus,0
+80719_site3_cluster75,laserOn,0.2,R-DG R749,15,Baseline,0
+80719_site3_cluster75,laserOn,0.2,R-DG R749,15,Stimulus,0
+80719_site3_cluster75,laserOn,0.2,R-LG BK971,16,Baseline,0
+80719_site3_cluster75,laserOn,0.2,R-LG BK971,16,Stimulus,0
+80719_site3_cluster75,laserOn,0.2,R-LG BK971,17,Baseline,4
+80719_site3_cluster75,laserOn,0.2,R-LG BK971,17,Stimulus,2
+80719_site3_cluster75,laserOn,0.2,R-LG BK971,18,Baseline,0
+80719_site3_cluster75,laserOn,0.2,R-LG BK971,18,Stimulus,2
+80719_site3_cluster75,laserOn,0.2,R-LG BK971,19,Baseline,0
+80719_site3_cluster75,laserOn,0.2,R-LG BK971,19,Stimulus,0
+80719_site3_cluster75,laserOn,0.2,R-LG BK971,20,Baseline,0
+80719_site3_cluster75,laserOn,0.2,R-LG BK971,20,Stimulus,2
+80719_site4_cluster145,laserOff,0.2,WH-DG DG825,1,Baseline,2
+80719_site4_cluster145,laserOff,0.2,WH-DG DG825,1,Stimulus,8
+80719_site4_cluster145,laserOff,0.2,WH-DG DG825,2,Baseline,2
+80719_site4_cluster145,laserOff,0.2,WH-DG DG825,2,Stimulus,14
+80719_site4_cluster145,laserOff,0.2,WH-DG DG825,3,Baseline,2
+80719_site4_cluster145,laserOff,0.2,WH-DG DG825,3,Stimulus,12
+80719_site4_cluster145,laserOff,0.2,WH-DG DG825,4,Baseline,4
+80719_site4_cluster145,laserOff,0.2,WH-DG DG825,4,Stimulus,10
+80719_site4_cluster145,laserOff,0.2,WH-DG DG825,5,Baseline,2
+80719_site4_cluster145,laserOff,0.2,WH-DG DG825,5,Stimulus,2
+80719_site4_cluster145,laserOff,0.2,WH-R PK967,6,Baseline,4
+80719_site4_cluster145,laserOff,0.2,WH-R PK967,6,Stimulus,10
+80719_site4_cluster145,laserOff,0.2,WH-R PK967,7,Baseline,12
+80719_site4_cluster145,laserOff,0.2,WH-R PK967,7,Stimulus,8
+80719_site4_cluster145,laserOff,0.2,WH-R PK967,8,Baseline,2
+80719_site4_cluster145,laserOff,0.2,WH-R PK967,8,Stimulus,4
+80719_site4_cluster145,laserOff,0.2,WH-R PK967,9,Baseline,2
+80719_site4_cluster145,laserOff,0.2,WH-R PK967,9,Stimulus,10
+80719_site4_cluster145,laserOff,0.2,WH-R PK967,10,Baseline,2
+80719_site4_cluster145,laserOff,0.2,WH-R PK967,10,Stimulus,8
+80719_site4_cluster145,laserOff,0.2,WH27 LG147,11,Baseline,0
+80719_site4_cluster145,laserOff,0.2,WH27 LG147,11,Stimulus,12
+80719_site4_cluster145,laserOff,0.2,WH27 LG147,12,Baseline,8
+80719_site4_cluster145,laserOff,0.2,WH27 LG147,12,Stimulus,20
+80719_site4_cluster145,laserOff,0.2,WH27 LG147,13,Baseline,4
+80719_site4_cluster145,laserOff,0.2,WH27 LG147,13,Stimulus,4
+80719_site4_cluster145,laserOff,0.2,WH27 LG147,14,Baseline,4
+80719_site4_cluster145,laserOff,0.2,WH27 LG147,14,Stimulus,4
+80719_site4_cluster145,laserOff,0.2,WH27 LG147,15,Baseline,4
+80719_site4_cluster145,laserOff,0.2,WH27 LG147,15,Stimulus,2
+80719_site4_cluster145,laserOff,0.2,WH62,16,Baseline,6
+80719_site4_cluster145,laserOff,0.2,WH62,16,Stimulus,12
+80719_site4_cluster145,laserOff,0.2,WH62,17,Baseline,4
+80719_site4_cluster145,laserOff,0.2,WH62,17,Stimulus,2
+80719_site4_cluster145,laserOff,0.2,WH62,18,Baseline,0
+80719_site4_cluster145,laserOff,0.2,WH62,18,Stimulus,4
+80719_site4_cluster145,laserOff,0.2,WH62,19,Baseline,0
+80719_site4_cluster145,laserOff,0.2,WH62,19,Stimulus,4
+80719_site4_cluster145,laserOff,0.2,WH62,20,Baseline,4
+80719_site4_cluster145,laserOff,0.2,WH62,20,Stimulus,2
+80719_site4_cluster147,laserOff,0.233333333,WH-DG DG825,1,Baseline,6
+80719_site4_cluster147,laserOff,0.233333333,WH-DG DG825,1,Stimulus,0
+80719_site4_cluster147,laserOff,0.233333333,WH-DG DG825,2,Baseline,0
+80719_site4_cluster147,laserOff,0.233333333,WH-DG DG825,2,Stimulus,2
+80719_site4_cluster147,laserOff,0.233333333,WH-DG DG825,3,Baseline,4
+80719_site4_cluster147,laserOff,0.233333333,WH-DG DG825,3,Stimulus,2
+80719_site4_cluster147,laserOff,0.233333333,WH-DG DG825,4,Baseline,0
+80719_site4_cluster147,laserOff,0.233333333,WH-DG DG825,4,Stimulus,2
+80719_site4_cluster147,laserOff,0.233333333,WH-DG DG825,5,Baseline,6
+80719_site4_cluster147,laserOff,0.233333333,WH-DG DG825,5,Stimulus,0
+80719_site4_cluster147,laserOff,0.233333333,WH-R PK967,6,Baseline,6
+80719_site4_cluster147,laserOff,0.233333333,WH-R PK967,6,Stimulus,4
+80719_site4_cluster147,laserOff,0.233333333,WH-R PK967,7,Baseline,2
+80719_site4_cluster147,laserOff,0.233333333,WH-R PK967,7,Stimulus,2
+80719_site4_cluster147,laserOff,0.233333333,WH-R PK967,8,Baseline,2
+80719_site4_cluster147,laserOff,0.233333333,WH-R PK967,8,Stimulus,0
+80719_site4_cluster147,laserOff,0.233333333,WH-R PK967,9,Baseline,2
+80719_site4_cluster147,laserOff,0.233333333,WH-R PK967,9,Stimulus,2
+80719_site4_cluster147,laserOff,0.233333333,WH-R PK967,10,Baseline,2
+80719_site4_cluster147,laserOff,0.233333333,WH-R PK967,10,Stimulus,8
+80719_site4_cluster147,laserOff,0.233333333,WH27 LG147,11,Baseline,0
+80719_site4_cluster147,laserOff,0.233333333,WH27 LG147,11,Stimulus,8
+80719_site4_cluster147,laserOff,0.233333333,WH27 LG147,12,Baseline,6
+80719_site4_cluster147,laserOff,0.233333333,WH27 LG147,12,Stimulus,0
+80719_site4_cluster147,laserOff,0.233333333,WH27 LG147,13,Baseline,0
+80719_site4_cluster147,laserOff,0.233333333,WH27 LG147,13,Stimulus,8
+80719_site4_cluster147,laserOff,0.233333333,WH27 LG147,14,Baseline,2
+80719_site4_cluster147,laserOff,0.233333333,WH27 LG147,14,Stimulus,2
+80719_site4_cluster147,laserOff,0.233333333,WH27 LG147,15,Baseline,0
+80719_site4_cluster147,laserOff,0.233333333,WH27 LG147,15,Stimulus,0
+80719_site4_cluster147,laserOff,0.233333333,WH62,16,Baseline,4
+80719_site4_cluster147,laserOff,0.233333333,WH62,16,Stimulus,10
+80719_site4_cluster147,laserOff,0.233333333,WH62,17,Baseline,2
+80719_site4_cluster147,laserOff,0.233333333,WH62,17,Stimulus,4
+80719_site4_cluster147,laserOff,0.233333333,WH62,18,Baseline,0
+80719_site4_cluster147,laserOff,0.233333333,WH62,18,Stimulus,0
+80719_site4_cluster147,laserOff,0.233333333,WH62,19,Baseline,0
+80719_site4_cluster147,laserOff,0.233333333,WH62,19,Stimulus,2
+80719_site4_cluster147,laserOff,0.233333333,WH62,20,Baseline,0
+80719_site4_cluster147,laserOff,0.233333333,WH62,20,Stimulus,2
+80719_site4_cluster149,laserOff,0.166666667,WH-DG DG825,1,Baseline,4
+80719_site4_cluster149,laserOff,0.166666667,WH-DG DG825,1,Stimulus,2
+80719_site4_cluster149,laserOff,0.166666667,WH-DG DG825,2,Baseline,2
+80719_site4_cluster149,laserOff,0.166666667,WH-DG DG825,2,Stimulus,6
+80719_site4_cluster149,laserOff,0.166666667,WH-DG DG825,3,Baseline,6
+80719_site4_cluster149,laserOff,0.166666667,WH-DG DG825,3,Stimulus,2
+80719_site4_cluster149,laserOff,0.166666667,WH-DG DG825,4,Baseline,2
+80719_site4_cluster149,laserOff,0.166666667,WH-DG DG825,4,Stimulus,4
+80719_site4_cluster149,laserOff,0.166666667,WH-DG DG825,5,Baseline,2
+80719_site4_cluster149,laserOff,0.166666667,WH-DG DG825,5,Stimulus,4
+80719_site4_cluster149,laserOff,0.166666667,WH-R PK967,6,Baseline,0
+80719_site4_cluster149,laserOff,0.166666667,WH-R PK967,6,Stimulus,6
+80719_site4_cluster149,laserOff,0.166666667,WH-R PK967,7,Baseline,2
+80719_site4_cluster149,laserOff,0.166666667,WH-R PK967,7,Stimulus,4
+80719_site4_cluster149,laserOff,0.166666667,WH-R PK967,8,Baseline,0
+80719_site4_cluster149,laserOff,0.166666667,WH-R PK967,8,Stimulus,4
+80719_site4_cluster149,laserOff,0.166666667,WH-R PK967,9,Baseline,2
+80719_site4_cluster149,laserOff,0.166666667,WH-R PK967,9,Stimulus,2
+80719_site4_cluster149,laserOff,0.166666667,WH-R PK967,10,Baseline,2
+80719_site4_cluster149,laserOff,0.166666667,WH-R PK967,10,Stimulus,4
+80719_site4_cluster149,laserOff,0.166666667,WH27 LG147,11,Baseline,0
+80719_site4_cluster149,laserOff,0.166666667,WH27 LG147,11,Stimulus,4
+80719_site4_cluster149,laserOff,0.166666667,WH27 LG147,12,Baseline,4
+80719_site4_cluster149,laserOff,0.166666667,WH27 LG147,12,Stimulus,10
+80719_site4_cluster149,laserOff,0.166666667,WH27 LG147,13,Baseline,2
+80719_site4_cluster149,laserOff,0.166666667,WH27 LG147,13,Stimulus,0
+80719_site4_cluster149,laserOff,0.166666667,WH27 LG147,14,Baseline,0
+80719_site4_cluster149,laserOff,0.166666667,WH27 LG147,14,Stimulus,2
+80719_site4_cluster149,laserOff,0.166666667,WH27 LG147,15,Baseline,0
+80719_site4_cluster149,laserOff,0.166666667,WH27 LG147,15,Stimulus,6
+80719_site4_cluster149,laserOff,0.166666667,WH62,16,Baseline,2
+80719_site4_cluster149,laserOff,0.166666667,WH62,16,Stimulus,6
+80719_site4_cluster149,laserOff,0.166666667,WH62,17,Baseline,2
+80719_site4_cluster149,laserOff,0.166666667,WH62,17,Stimulus,2
+80719_site4_cluster149,laserOff,0.166666667,WH62,18,Baseline,0
+80719_site4_cluster149,laserOff,0.166666667,WH62,18,Stimulus,8
+80719_site4_cluster149,laserOff,0.166666667,WH62,19,Baseline,2
+80719_site4_cluster149,laserOff,0.166666667,WH62,19,Stimulus,6
+80719_site4_cluster149,laserOff,0.166666667,WH62,20,Baseline,0
+80719_site4_cluster149,laserOff,0.166666667,WH62,20,Stimulus,2
+80719_site4_cluster188,laserOff,0.166666667,WH-DG DG825,1,Baseline,14
+80719_site4_cluster188,laserOff,0.166666667,WH-DG DG825,1,Stimulus,4
+80719_site4_cluster188,laserOff,0.166666667,WH-DG DG825,2,Baseline,4
+80719_site4_cluster188,laserOff,0.166666667,WH-DG DG825,2,Stimulus,28
+80719_site4_cluster188,laserOff,0.166666667,WH-DG DG825,3,Baseline,2
+80719_site4_cluster188,laserOff,0.166666667,WH-DG DG825,3,Stimulus,10
+80719_site4_cluster188,laserOff,0.166666667,WH-DG DG825,4,Baseline,2
+80719_site4_cluster188,laserOff,0.166666667,WH-DG DG825,4,Stimulus,8
+80719_site4_cluster188,laserOff,0.166666667,WH-DG DG825,5,Baseline,6
+80719_site4_cluster188,laserOff,0.166666667,WH-DG DG825,5,Stimulus,6
+80719_site4_cluster188,laserOff,0.166666667,WH-R PK967,6,Baseline,4
+80719_site4_cluster188,laserOff,0.166666667,WH-R PK967,6,Stimulus,36
+80719_site4_cluster188,laserOff,0.166666667,WH-R PK967,7,Baseline,16
+80719_site4_cluster188,laserOff,0.166666667,WH-R PK967,7,Stimulus,20
+80719_site4_cluster188,laserOff,0.166666667,WH-R PK967,8,Baseline,4
+80719_site4_cluster188,laserOff,0.166666667,WH-R PK967,8,Stimulus,10
+80719_site4_cluster188,laserOff,0.166666667,WH-R PK967,9,Baseline,0
+80719_site4_cluster188,laserOff,0.166666667,WH-R PK967,9,Stimulus,8
+80719_site4_cluster188,laserOff,0.166666667,WH-R PK967,10,Baseline,4
+80719_site4_cluster188,laserOff,0.166666667,WH-R PK967,10,Stimulus,16
+80719_site4_cluster188,laserOff,0.166666667,WH27 LG147,11,Baseline,4
+80719_site4_cluster188,laserOff,0.166666667,WH27 LG147,11,Stimulus,48
+80719_site4_cluster188,laserOff,0.166666667,WH27 LG147,12,Baseline,24
+80719_site4_cluster188,laserOff,0.166666667,WH27 LG147,12,Stimulus,40
+80719_site4_cluster188,laserOff,0.166666667,WH27 LG147,13,Baseline,0
+80719_site4_cluster188,laserOff,0.166666667,WH27 LG147,13,Stimulus,26
+80719_site4_cluster188,laserOff,0.166666667,WH27 LG147,14,Baseline,2
+80719_site4_cluster188,laserOff,0.166666667,WH27 LG147,14,Stimulus,18
+80719_site4_cluster188,laserOff,0.166666667,WH27 LG147,15,Baseline,4
+80719_site4_cluster188,laserOff,0.166666667,WH27 LG147,15,Stimulus,2
+80719_site4_cluster188,laserOff,0.166666667,WH62,16,Baseline,10
+80719_site4_cluster188,laserOff,0.166666667,WH62,16,Stimulus,32
+80719_site4_cluster188,laserOff,0.166666667,WH62,17,Baseline,8
+80719_site4_cluster188,laserOff,0.166666667,WH62,17,Stimulus,2
+80719_site4_cluster188,laserOff,0.166666667,WH62,18,Baseline,4
+80719_site4_cluster188,laserOff,0.166666667,WH62,18,Stimulus,12
+80719_site4_cluster188,laserOff,0.166666667,WH62,19,Baseline,2
+80719_site4_cluster188,laserOff,0.166666667,WH62,19,Stimulus,6
+80719_site4_cluster188,laserOff,0.166666667,WH62,20,Baseline,2
+80719_site4_cluster188,laserOff,0.166666667,WH62,20,Stimulus,0
+80719_site4_cluster208,laserOff,0.266666667,WH-DG DG825,1,Baseline,2
+80719_site4_cluster208,laserOff,0.266666667,WH-DG DG825,1,Stimulus,0
+80719_site4_cluster208,laserOff,0.266666667,WH-DG DG825,2,Baseline,0
+80719_site4_cluster208,laserOff,0.266666667,WH-DG DG825,2,Stimulus,22
+80719_site4_cluster208,laserOff,0.266666667,WH-DG DG825,3,Baseline,2
+80719_site4_cluster208,laserOff,0.266666667,WH-DG DG825,3,Stimulus,6
+80719_site4_cluster208,laserOff,0.266666667,WH-DG DG825,4,Baseline,20
+80719_site4_cluster208,laserOff,0.266666667,WH-DG DG825,4,Stimulus,10
+80719_site4_cluster208,laserOff,0.266666667,WH-DG DG825,5,Baseline,4
+80719_site4_cluster208,laserOff,0.266666667,WH-DG DG825,5,Stimulus,8
+80719_site4_cluster208,laserOff,0.266666667,WH-R PK967,6,Baseline,8
+80719_site4_cluster208,laserOff,0.266666667,WH-R PK967,6,Stimulus,16
+80719_site4_cluster208,laserOff,0.266666667,WH-R PK967,7,Baseline,20
+80719_site4_cluster208,laserOff,0.266666667,WH-R PK967,7,Stimulus,14
+80719_site4_cluster208,laserOff,0.266666667,WH-R PK967,8,Baseline,12
+80719_site4_cluster208,laserOff,0.266666667,WH-R PK967,8,Stimulus,2
+80719_site4_cluster208,laserOff,0.266666667,WH-R PK967,9,Baseline,6
+80719_site4_cluster208,laserOff,0.266666667,WH-R PK967,9,Stimulus,18
+80719_site4_cluster208,laserOff,0.266666667,WH-R PK967,10,Baseline,0
+80719_site4_cluster208,laserOff,0.266666667,WH-R PK967,10,Stimulus,22
+80719_site4_cluster208,laserOff,0.266666667,WH27 LG147,11,Baseline,8
+80719_site4_cluster208,laserOff,0.266666667,WH27 LG147,11,Stimulus,28
+80719_site4_cluster208,laserOff,0.266666667,WH27 LG147,12,Baseline,6
+80719_site4_cluster208,laserOff,0.266666667,WH27 LG147,12,Stimulus,10
+80719_site4_cluster208,laserOff,0.266666667,WH27 LG147,13,Baseline,0
+80719_site4_cluster208,laserOff,0.266666667,WH27 LG147,13,Stimulus,8
+80719_site4_cluster208,laserOff,0.266666667,WH27 LG147,14,Baseline,20
+80719_site4_cluster208,laserOff,0.266666667,WH27 LG147,14,Stimulus,0
+80719_site4_cluster208,laserOff,0.266666667,WH27 LG147,15,Baseline,12
+80719_site4_cluster208,laserOff,0.266666667,WH27 LG147,15,Stimulus,22
+80719_site4_cluster208,laserOff,0.266666667,WH62,16,Baseline,24
+80719_site4_cluster208,laserOff,0.266666667,WH62,16,Stimulus,10
+80719_site4_cluster208,laserOff,0.266666667,WH62,17,Baseline,24
+80719_site4_cluster208,laserOff,0.266666667,WH62,17,Stimulus,6
+80719_site4_cluster208,laserOff,0.266666667,WH62,18,Baseline,20
+80719_site4_cluster208,laserOff,0.266666667,WH62,18,Stimulus,2
+80719_site4_cluster208,laserOff,0.266666667,WH62,19,Baseline,0
+80719_site4_cluster208,laserOff,0.266666667,WH62,19,Stimulus,4
+80719_site4_cluster208,laserOff,0.266666667,WH62,20,Baseline,16
+80719_site4_cluster208,laserOff,0.266666667,WH62,20,Stimulus,0
+80719_site4_cluster145,laserOn,0.2,WH-DG DG825,1,Baseline,2
+80719_site4_cluster145,laserOn,0.2,WH-DG DG825,1,Stimulus,14
+80719_site4_cluster145,laserOn,0.2,WH-DG DG825,2,Baseline,0
+80719_site4_cluster145,laserOn,0.2,WH-DG DG825,2,Stimulus,4
+80719_site4_cluster145,laserOn,0.2,WH-DG DG825,3,Baseline,2
+80719_site4_cluster145,laserOn,0.2,WH-DG DG825,3,Stimulus,0
+80719_site4_cluster145,laserOn,0.2,WH-DG DG825,4,Baseline,8
+80719_site4_cluster145,laserOn,0.2,WH-DG DG825,4,Stimulus,2
+80719_site4_cluster145,laserOn,0.2,WH-DG DG825,5,Baseline,2
+80719_site4_cluster145,laserOn,0.2,WH-DG DG825,5,Stimulus,2
+80719_site4_cluster145,laserOn,0.2,WH-R PK967,6,Baseline,4
+80719_site4_cluster145,laserOn,0.2,WH-R PK967,6,Stimulus,0
+80719_site4_cluster145,laserOn,0.2,WH-R PK967,7,Baseline,0
+80719_site4_cluster145,laserOn,0.2,WH-R PK967,7,Stimulus,4
+80719_site4_cluster145,laserOn,0.2,WH-R PK967,8,Baseline,4
+80719_site4_cluster145,laserOn,0.2,WH-R PK967,8,Stimulus,4
+80719_site4_cluster145,laserOn,0.2,WH-R PK967,9,Baseline,8
+80719_site4_cluster145,laserOn,0.2,WH-R PK967,9,Stimulus,2
+80719_site4_cluster145,laserOn,0.2,WH-R PK967,10,Baseline,2
+80719_site4_cluster145,laserOn,0.2,WH-R PK967,10,Stimulus,8
+80719_site4_cluster145,laserOn,0.2,WH27 LG147,11,Baseline,4
+80719_site4_cluster145,laserOn,0.2,WH27 LG147,11,Stimulus,2
+80719_site4_cluster145,laserOn,0.2,WH27 LG147,12,Baseline,6
+80719_site4_cluster145,laserOn,0.2,WH27 LG147,12,Stimulus,0
+80719_site4_cluster145,laserOn,0.2,WH27 LG147,13,Baseline,2
+80719_site4_cluster145,laserOn,0.2,WH27 LG147,13,Stimulus,4
+80719_site4_cluster145,laserOn,0.2,WH27 LG147,14,Baseline,2
+80719_site4_cluster145,laserOn,0.2,WH27 LG147,14,Stimulus,0
+80719_site4_cluster145,laserOn,0.2,WH27 LG147,15,Baseline,10
+80719_site4_cluster145,laserOn,0.2,WH27 LG147,15,Stimulus,2
+80719_site4_cluster145,laserOn,0.2,WH62,16,Baseline,4
+80719_site4_cluster145,laserOn,0.2,WH62,16,Stimulus,0
+80719_site4_cluster145,laserOn,0.2,WH62,17,Baseline,6
+80719_site4_cluster145,laserOn,0.2,WH62,17,Stimulus,0
+80719_site4_cluster145,laserOn,0.2,WH62,18,Baseline,4
+80719_site4_cluster145,laserOn,0.2,WH62,18,Stimulus,4
+80719_site4_cluster145,laserOn,0.2,WH62,19,Baseline,0
+80719_site4_cluster145,laserOn,0.2,WH62,19,Stimulus,0
+80719_site4_cluster145,laserOn,0.2,WH62,20,Baseline,2
+80719_site4_cluster145,laserOn,0.2,WH62,20,Stimulus,2
+80719_site4_cluster147,laserOn,0.233333333,WH-DG DG825,1,Baseline,2
+80719_site4_cluster147,laserOn,0.233333333,WH-DG DG825,1,Stimulus,2
+80719_site4_cluster147,laserOn,0.233333333,WH-DG DG825,2,Baseline,2
+80719_site4_cluster147,laserOn,0.233333333,WH-DG DG825,2,Stimulus,2
+80719_site4_cluster147,laserOn,0.233333333,WH-DG DG825,3,Baseline,2
+80719_site4_cluster147,laserOn,0.233333333,WH-DG DG825,3,Stimulus,0
+80719_site4_cluster147,laserOn,0.233333333,WH-DG DG825,4,Baseline,2
+80719_site4_cluster147,laserOn,0.233333333,WH-DG DG825,4,Stimulus,0
+80719_site4_cluster147,laserOn,0.233333333,WH-DG DG825,5,Baseline,4
+80719_site4_cluster147,laserOn,0.233333333,WH-DG DG825,5,Stimulus,2
+80719_site4_cluster147,laserOn,0.233333333,WH-R PK967,6,Baseline,6
+80719_site4_cluster147,laserOn,0.233333333,WH-R PK967,6,Stimulus,0
+80719_site4_cluster147,laserOn,0.233333333,WH-R PK967,7,Baseline,2
+80719_site4_cluster147,laserOn,0.233333333,WH-R PK967,7,Stimulus,2
+80719_site4_cluster147,laserOn,0.233333333,WH-R PK967,8,Baseline,0
+80719_site4_cluster147,laserOn,0.233333333,WH-R PK967,8,Stimulus,0
+80719_site4_cluster147,laserOn,0.233333333,WH-R PK967,9,Baseline,2
+80719_site4_cluster147,laserOn,0.233333333,WH-R PK967,9,Stimulus,0
+80719_site4_cluster147,laserOn,0.233333333,WH-R PK967,10,Baseline,0
+80719_site4_cluster147,laserOn,0.233333333,WH-R PK967,10,Stimulus,4
+80719_site4_cluster147,laserOn,0.233333333,WH27 LG147,11,Baseline,0
+80719_site4_cluster147,laserOn,0.233333333,WH27 LG147,11,Stimulus,2
+80719_site4_cluster147,laserOn,0.233333333,WH27 LG147,12,Baseline,4
+80719_site4_cluster147,laserOn,0.233333333,WH27 LG147,12,Stimulus,2
+80719_site4_cluster147,laserOn,0.233333333,WH27 LG147,13,Baseline,0
+80719_site4_cluster147,laserOn,0.233333333,WH27 LG147,13,Stimulus,2
+80719_site4_cluster147,laserOn,0.233333333,WH27 LG147,14,Baseline,2
+80719_site4_cluster147,laserOn,0.233333333,WH27 LG147,14,Stimulus,0
+80719_site4_cluster147,laserOn,0.233333333,WH27 LG147,15,Baseline,0
+80719_site4_cluster147,laserOn,0.233333333,WH27 LG147,15,Stimulus,4
+80719_site4_cluster147,laserOn,0.233333333,WH62,16,Baseline,6
+80719_site4_cluster147,laserOn,0.233333333,WH62,16,Stimulus,0
+80719_site4_cluster147,laserOn,0.233333333,WH62,17,Baseline,4
+80719_site4_cluster147,laserOn,0.233333333,WH62,17,Stimulus,2
+80719_site4_cluster147,laserOn,0.233333333,WH62,18,Baseline,0
+80719_site4_cluster147,laserOn,0.233333333,WH62,18,Stimulus,0
+80719_site4_cluster147,laserOn,0.233333333,WH62,19,Baseline,0
+80719_site4_cluster147,laserOn,0.233333333,WH62,19,Stimulus,0
+80719_site4_cluster147,laserOn,0.233333333,WH62,20,Baseline,4
+80719_site4_cluster147,laserOn,0.233333333,WH62,20,Stimulus,2
+80719_site4_cluster149,laserOn,0.166666667,WH-DG DG825,1,Baseline,4
+80719_site4_cluster149,laserOn,0.166666667,WH-DG DG825,1,Stimulus,4
+80719_site4_cluster149,laserOn,0.166666667,WH-DG DG825,2,Baseline,2
+80719_site4_cluster149,laserOn,0.166666667,WH-DG DG825,2,Stimulus,0
+80719_site4_cluster149,laserOn,0.166666667,WH-DG DG825,3,Baseline,0
+80719_site4_cluster149,laserOn,0.166666667,WH-DG DG825,3,Stimulus,0
+80719_site4_cluster149,laserOn,0.166666667,WH-DG DG825,4,Baseline,0
+80719_site4_cluster149,laserOn,0.166666667,WH-DG DG825,4,Stimulus,2
+80719_site4_cluster149,laserOn,0.166666667,WH-DG DG825,5,Baseline,0
+80719_site4_cluster149,laserOn,0.166666667,WH-DG DG825,5,Stimulus,0
+80719_site4_cluster149,laserOn,0.166666667,WH-R PK967,6,Baseline,4
+80719_site4_cluster149,laserOn,0.166666667,WH-R PK967,6,Stimulus,2
+80719_site4_cluster149,laserOn,0.166666667,WH-R PK967,7,Baseline,2
+80719_site4_cluster149,laserOn,0.166666667,WH-R PK967,7,Stimulus,0
+80719_site4_cluster149,laserOn,0.166666667,WH-R PK967,8,Baseline,4
+80719_site4_cluster149,laserOn,0.166666667,WH-R PK967,8,Stimulus,4
+80719_site4_cluster149,laserOn,0.166666667,WH-R PK967,9,Baseline,0
+80719_site4_cluster149,laserOn,0.166666667,WH-R PK967,9,Stimulus,2
+80719_site4_cluster149,laserOn,0.166666667,WH-R PK967,10,Baseline,2
+80719_site4_cluster149,laserOn,0.166666667,WH-R PK967,10,Stimulus,4
+80719_site4_cluster149,laserOn,0.166666667,WH27 LG147,11,Baseline,0
+80719_site4_cluster149,laserOn,0.166666667,WH27 LG147,11,Stimulus,2
+80719_site4_cluster149,laserOn,0.166666667,WH27 LG147,12,Baseline,0
+80719_site4_cluster149,laserOn,0.166666667,WH27 LG147,12,Stimulus,0
+80719_site4_cluster149,laserOn,0.166666667,WH27 LG147,13,Baseline,0
+80719_site4_cluster149,laserOn,0.166666667,WH27 LG147,13,Stimulus,2
+80719_site4_cluster149,laserOn,0.166666667,WH27 LG147,14,Baseline,0
+80719_site4_cluster149,laserOn,0.166666667,WH27 LG147,14,Stimulus,0
+80719_site4_cluster149,laserOn,0.166666667,WH27 LG147,15,Baseline,4
+80719_site4_cluster149,laserOn,0.166666667,WH27 LG147,15,Stimulus,2
+80719_site4_cluster149,laserOn,0.166666667,WH62,16,Baseline,4
+80719_site4_cluster149,laserOn,0.166666667,WH62,16,Stimulus,2
+80719_site4_cluster149,laserOn,0.166666667,WH62,17,Baseline,0
+80719_site4_cluster149,laserOn,0.166666667,WH62,17,Stimulus,0
+80719_site4_cluster149,laserOn,0.166666667,WH62,18,Baseline,4
+80719_site4_cluster149,laserOn,0.166666667,WH62,18,Stimulus,4
+80719_site4_cluster149,laserOn,0.166666667,WH62,19,Baseline,0
+80719_site4_cluster149,laserOn,0.166666667,WH62,19,Stimulus,0
+80719_site4_cluster149,laserOn,0.166666667,WH62,20,Baseline,0
+80719_site4_cluster149,laserOn,0.166666667,WH62,20,Stimulus,0
+80719_site4_cluster188,laserOn,0.166666667,WH-DG DG825,1,Baseline,2
+80719_site4_cluster188,laserOn,0.166666667,WH-DG DG825,1,Stimulus,24
+80719_site4_cluster188,laserOn,0.166666667,WH-DG DG825,2,Baseline,6
+80719_site4_cluster188,laserOn,0.166666667,WH-DG DG825,2,Stimulus,0
+80719_site4_cluster188,laserOn,0.166666667,WH-DG DG825,3,Baseline,10
+80719_site4_cluster188,laserOn,0.166666667,WH-DG DG825,3,Stimulus,2
+80719_site4_cluster188,laserOn,0.166666667,WH-DG DG825,4,Baseline,4
+80719_site4_cluster188,laserOn,0.166666667,WH-DG DG825,4,Stimulus,2
+80719_site4_cluster188,laserOn,0.166666667,WH-DG DG825,5,Baseline,6
+80719_site4_cluster188,laserOn,0.166666667,WH-DG DG825,5,Stimulus,0
+80719_site4_cluster188,laserOn,0.166666667,WH-R PK967,6,Baseline,14
+80719_site4_cluster188,laserOn,0.166666667,WH-R PK967,6,Stimulus,0
+80719_site4_cluster188,laserOn,0.166666667,WH-R PK967,7,Baseline,6
+80719_site4_cluster188,laserOn,0.166666667,WH-R PK967,7,Stimulus,0
+80719_site4_cluster188,laserOn,0.166666667,WH-R PK967,8,Baseline,6
+80719_site4_cluster188,laserOn,0.166666667,WH-R PK967,8,Stimulus,2
+80719_site4_cluster188,laserOn,0.166666667,WH-R PK967,9,Baseline,4
+80719_site4_cluster188,laserOn,0.166666667,WH-R PK967,9,Stimulus,2
+80719_site4_cluster188,laserOn,0.166666667,WH-R PK967,10,Baseline,4
+80719_site4_cluster188,laserOn,0.166666667,WH-R PK967,10,Stimulus,8
+80719_site4_cluster188,laserOn,0.166666667,WH27 LG147,11,Baseline,2
+80719_site4_cluster188,laserOn,0.166666667,WH27 LG147,11,Stimulus,0
+80719_site4_cluster188,laserOn,0.166666667,WH27 LG147,12,Baseline,2
+80719_site4_cluster188,laserOn,0.166666667,WH27 LG147,12,Stimulus,6
+80719_site4_cluster188,laserOn,0.166666667,WH27 LG147,13,Baseline,6
+80719_site4_cluster188,laserOn,0.166666667,WH27 LG147,13,Stimulus,14
+80719_site4_cluster188,laserOn,0.166666667,WH27 LG147,14,Baseline,10
+80719_site4_cluster188,laserOn,0.166666667,WH27 LG147,14,Stimulus,2
+80719_site4_cluster188,laserOn,0.166666667,WH27 LG147,15,Baseline,6
+80719_site4_cluster188,laserOn,0.166666667,WH27 LG147,15,Stimulus,4
+80719_site4_cluster188,laserOn,0.166666667,WH62,16,Baseline,14
+80719_site4_cluster188,laserOn,0.166666667,WH62,16,Stimulus,0
+80719_site4_cluster188,laserOn,0.166666667,WH62,17,Baseline,2
+80719_site4_cluster188,laserOn,0.166666667,WH62,17,Stimulus,6
+80719_site4_cluster188,laserOn,0.166666667,WH62,18,Baseline,6
+80719_site4_cluster188,laserOn,0.166666667,WH62,18,Stimulus,2
+80719_site4_cluster188,laserOn,0.166666667,WH62,19,Baseline,0
+80719_site4_cluster188,laserOn,0.166666667,WH62,19,Stimulus,4
+80719_site4_cluster188,laserOn,0.166666667,WH62,20,Baseline,6
+80719_site4_cluster188,laserOn,0.166666667,WH62,20,Stimulus,0
+80719_site4_cluster208,laserOn,0.266666667,WH-DG DG825,1,Baseline,16
+80719_site4_cluster208,laserOn,0.266666667,WH-DG DG825,1,Stimulus,2
+80719_site4_cluster208,laserOn,0.266666667,WH-DG DG825,2,Baseline,4
+80719_site4_cluster208,laserOn,0.266666667,WH-DG DG825,2,Stimulus,28
+80719_site4_cluster208,laserOn,0.266666667,WH-DG DG825,3,Baseline,0
+80719_site4_cluster208,laserOn,0.266666667,WH-DG DG825,3,Stimulus,8
+80719_site4_cluster208,laserOn,0.266666667,WH-DG DG825,4,Baseline,12
+80719_site4_cluster208,laserOn,0.266666667,WH-DG DG825,4,Stimulus,4
+80719_site4_cluster208,laserOn,0.266666667,WH-DG DG825,5,Baseline,2
+80719_site4_cluster208,laserOn,0.266666667,WH-DG DG825,5,Stimulus,2
+80719_site4_cluster208,laserOn,0.266666667,WH-R PK967,6,Baseline,10
+80719_site4_cluster208,laserOn,0.266666667,WH-R PK967,6,Stimulus,0
+80719_site4_cluster208,laserOn,0.266666667,WH-R PK967,7,Baseline,4
+80719_site4_cluster208,laserOn,0.266666667,WH-R PK967,7,Stimulus,28
+80719_site4_cluster208,laserOn,0.266666667,WH-R PK967,8,Baseline,0
+80719_site4_cluster208,laserOn,0.266666667,WH-R PK967,8,Stimulus,26
+80719_site4_cluster208,laserOn,0.266666667,WH-R PK967,9,Baseline,12
+80719_site4_cluster208,laserOn,0.266666667,WH-R PK967,9,Stimulus,4
+80719_site4_cluster208,laserOn,0.266666667,WH-R PK967,10,Baseline,10
+80719_site4_cluster208,laserOn,0.266666667,WH-R PK967,10,Stimulus,28
+80719_site4_cluster208,laserOn,0.266666667,WH27 LG147,11,Baseline,16
+80719_site4_cluster208,laserOn,0.266666667,WH27 LG147,11,Stimulus,0
+80719_site4_cluster208,laserOn,0.266666667,WH27 LG147,12,Baseline,8
+80719_site4_cluster208,laserOn,0.266666667,WH27 LG147,12,Stimulus,6
+80719_site4_cluster208,laserOn,0.266666667,WH27 LG147,13,Baseline,22
+80719_site4_cluster208,laserOn,0.266666667,WH27 LG147,13,Stimulus,2
+80719_site4_cluster208,laserOn,0.266666667,WH27 LG147,14,Baseline,0
+80719_site4_cluster208,laserOn,0.266666667,WH27 LG147,14,Stimulus,8
+80719_site4_cluster208,laserOn,0.266666667,WH27 LG147,15,Baseline,6
+80719_site4_cluster208,laserOn,0.266666667,WH27 LG147,15,Stimulus,0
+80719_site4_cluster208,laserOn,0.266666667,WH62,16,Baseline,10
+80719_site4_cluster208,laserOn,0.266666667,WH62,16,Stimulus,0
+80719_site4_cluster208,laserOn,0.266666667,WH62,17,Baseline,8
+80719_site4_cluster208,laserOn,0.266666667,WH62,17,Stimulus,6
+80719_site4_cluster208,laserOn,0.266666667,WH62,18,Baseline,0
+80719_site4_cluster208,laserOn,0.266666667,WH62,18,Stimulus,26
+80719_site4_cluster208,laserOn,0.266666667,WH62,19,Baseline,6
+80719_site4_cluster208,laserOn,0.266666667,WH62,19,Stimulus,6
+80719_site4_cluster208,laserOn,0.266666667,WH62,20,Baseline,2
+80719_site4_cluster208,laserOn,0.266666667,WH62,20,Stimulus,2
